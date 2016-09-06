@@ -1,0 +1,58 @@
+PokerStars Hand #154784306773: Tournament #1589383749, $1.00+$1.00+$0.20 USD Hold'em No Limit - Level XI (250/500) - 2016/06/15 17:39:46 ET
+Table '1589383749 172' 9-max Seat #3 is the button
+Seat 1: marksbabe1 (9950 in chips) 
+Seat 2: Denavasek (25212 in chips) 
+Seat 3: Jonney389 (26049 in chips) 
+Seat 5: eric73847 (50729 in chips) 
+Seat 6: Giardino87 (5857 in chips) 
+Seat 7: Japrimel (16534 in chips) 
+Seat 8: Nikolaj1976 (34303 in chips) 
+Seat 9: Cholo Terco (12852 in chips) 
+marksbabe1: posts the ante 50
+Denavasek: posts the ante 50
+Jonney389: posts the ante 50
+eric73847: posts the ante 50
+Giardino87: posts the ante 50
+Japrimel: posts the ante 50
+Nikolaj1976: posts the ante 50
+Cholo Terco: posts the ante 50
+eric73847: posts small blind 250
+Giardino87: posts big blind 500
+*** HOLE CARDS ***
+Dealt to eric73847 [5c 5s]
+Japrimel: folds 
+Nikolaj1976: folds 
+Cholo Terco: raises 1000 to 1500
+marksbabe1: folds 
+Denavasek: folds 
+Jonney389: folds 
+eric73847: calls 1250
+Giardino87: folds 
+*** FLOP *** [8d Kd 5d]
+eric73847: checks 
+Cholo Terco: bets 1500
+eric73847: raises 2500 to 4000
+Cholo Terco: raises 3000 to 7000
+eric73847: calls 3000
+*** TURN *** [8d Kd 5d] [Jc]
+eric73847: bets 42179 and is all-in
+Cholo Terco: calls 4302 and is all-in
+Uncalled bet (37877) returned to eric73847
+*** RIVER *** [8d Kd 5d Jc] [5h]
+*** SHOW DOWN ***
+eric73847: shows [5c 5s] (four of a kind, Fives)
+Cholo Terco: shows [Ac Ad] (two pair, Aces and Fives)
+eric73847 collected 26504 from pot
+eric73847 wins $0.50 for eliminating Cholo Terco and their own bounty increases by $0.50 to $3.50
+Cholo Terco finished the tournament
+*** SUMMARY ***
+Total pot 26504 | Rake 0 
+Board [8d Kd 5d Jc 5h]
+Seat 1: marksbabe1 folded before Flop (didn't bet)
+Seat 2: Denavasek folded before Flop (didn't bet)
+Seat 3: Jonney389 (button) folded before Flop (didn't bet)
+Seat 5: eric73847 (small blind) showed [5c 5s] and won (26504) with four of a kind, Fives
+Seat 6: Giardino87 (big blind) folded before Flop
+Seat 7: Japrimel folded before Flop (didn't bet)
+Seat 8: Nikolaj1976 folded before Flop (didn't bet)
+Seat 9: Cholo Terco showed [Ac Ad] and lost with two pair, Aces and Fives

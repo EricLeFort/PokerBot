@@ -1,0 +1,55 @@
+PokerStars Hand #154656324618: Tournament #1583928725, $1.00+$0.10 USD Hold'em No Limit - Level IV (30/60) - 2016/06/12 17:51:47 ET
+Table '1583928725 33' 9-max Seat #6 is the button
+Seat 1: felipepg21 (2993 in chips) 
+Seat 2: flutschi69 (5465 in chips) 
+Seat 3: eltrauco (2993 in chips) 
+Seat 4: eric73847 (8662 in chips) 
+Seat 6: RaffaPK (2810 in chips) 
+Seat 7: themontan614 (6045 in chips) 
+Seat 8: aariestiger (1819 in chips) 
+Seat 9: alexkallinik (5493 in chips) 
+felipepg21: posts the ante 7
+flutschi69: posts the ante 7
+eltrauco: posts the ante 7
+eric73847: posts the ante 7
+RaffaPK: posts the ante 7
+themontan614: posts the ante 7
+aariestiger: posts the ante 7
+alexkallinik: posts the ante 7
+themontan614: posts small blind 30
+aariestiger: posts big blind 60
+*** HOLE CARDS ***
+Dealt to eric73847 [Qd Jh]
+alexkallinik: raises 60 to 120
+felipepg21: folds 
+flutschi69: folds 
+eltrauco: folds 
+eric73847: calls 120
+RaffaPK: calls 120
+themontan614: folds 
+aariestiger: folds 
+*** FLOP *** [8h 2h 4s]
+alexkallinik: bets 300
+eric73847: folds 
+RaffaPK: raises 514 to 814
+alexkallinik: calls 514
+*** TURN *** [8h 2h 4s] [6h]
+alexkallinik: checks 
+RaffaPK: bets 1869 and is all-in
+alexkallinik: calls 1869
+*** RIVER *** [8h 2h 4s 6h] [Td]
+*** SHOW DOWN ***
+alexkallinik: shows [6s 6d] (three of a kind, Sixes)
+RaffaPK: shows [Qh Th] (a flush, Queen high)
+RaffaPK collected 5872 from pot
+*** SUMMARY ***
+Total pot 5872 | Rake 0 
+Board [8h 2h 4s 6h Td]
+Seat 1: felipepg21 folded before Flop (didn't bet)
+Seat 2: flutschi69 folded before Flop (didn't bet)
+Seat 3: eltrauco folded before Flop (didn't bet)
+Seat 4: eric73847 folded on the Flop
+Seat 6: RaffaPK (button) showed [Qh Th] and won (5872) with a flush, Queen high
+Seat 7: themontan614 (small blind) folded before Flop
+Seat 8: aariestiger (big blind) folded before Flop
+Seat 9: alexkallinik showed [6s 6d] and lost with three of a kind, Sixes

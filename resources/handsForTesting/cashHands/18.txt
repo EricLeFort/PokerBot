@@ -1,0 +1,51 @@
+PokerStars Hand #154489577890:  Hold'em No Limit ($0.05/$0.10 USD) - 2016/06/08 22:40:18 ET
+Table 'Gratia' 9-max Seat #8 is the button
+Seat 1: paula405 ($12.66 in chips) 
+Seat 2: Leorabotaet ($12.24 in chips) 
+Seat 3: czar0fhearts ($10.30 in chips) 
+Seat 5: JMKslave ($14.16 in chips) 
+Seat 6: eric73847 ($13.53 in chips) 
+Seat 7: SGA713 ($10 in chips) 
+Seat 8: dub555 ($10.22 in chips) 
+Seat 9: UncleBell ($10 in chips) 
+UncleBell: posts small blind $0.05
+paula405: posts big blind $0.10
+12X18H10T: sits out 
+*** HOLE CARDS ***
+Dealt to eric73847 [7h 8h]
+Leorabotaet: raises $0.13 to $0.23
+czar0fhearts: folds 
+JMKslave: calls $0.23
+eric73847: calls $0.23
+SGA713: folds 
+dub555: folds 
+UncleBell: folds 
+paula405: folds 
+*** FLOP *** [6h 7s 6s]
+Leorabotaet: bets $0.52
+JMKslave: calls $0.52
+eric73847: raises $1.63 to $2.15
+Leorabotaet: folds 
+JMKslave: calls $1.63
+*** TURN *** [6h 7s 6s] [8c]
+JMKslave: bets $2.75
+eric73847: calls $2.75
+*** RIVER *** [6h 7s 6s 8c] [2d]
+JMKslave: bets $9.03 and is all-in
+eric73847: calls $8.40 and is all-in
+Uncalled bet ($0.63) returned to JMKslave
+*** SHOW DOWN ***
+JMKslave: shows [7d 7c] (a full house, Sevens full of Sixes)
+eric73847: shows [7h 8h] (two pair, Eights and Sevens)
+JMKslave collected $26.70 from pot
+*** SUMMARY ***
+Total pot $27.96 | Rake $1.26 
+Board [6h 7s 6s 8c 2d]
+Seat 1: paula405 (big blind) folded before Flop
+Seat 2: Leorabotaet folded on the Flop
+Seat 3: czar0fhearts folded before Flop (didn't bet)
+Seat 5: JMKslave showed [7d 7c] and won ($26.70) with a full house, Sevens full of Sixes
+Seat 6: eric73847 showed [7h 8h] and lost with two pair, Eights and Sevens
+Seat 7: SGA713 folded before Flop (didn't bet)
+Seat 8: dub555 (button) folded before Flop (didn't bet)
+Seat 9: UncleBell (small blind) folded before Flop

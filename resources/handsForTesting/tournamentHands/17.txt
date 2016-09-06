@@ -1,0 +1,66 @@
+PokerStars Hand #154752335764: Tournament #1589386234, $0.30+$0.03 USD Hold'em No Limit - Level II (50/100) - 2016/06/14 23:53:25 ET
+Table '1589386234 4' 9-max Seat #3 is the button
+Seat 2: Mirmidoes (9662 in chips) 
+Seat 3: B3PblBauKa (21345 in chips) 
+Seat 4: kurkul76 (9810 in chips) 
+Seat 5: luxaru (9175 in chips) 
+Seat 6: Woodsmen 13 (21535 in chips) 
+Seat 7: Spawn490 (9930 in chips) 
+Seat 8: eric73847 (9980 in chips) 
+Seat 9: toguz88 (9990 in chips) 
+Mirmidoes: posts the ante 10
+B3PblBauKa: posts the ante 10
+kurkul76: posts the ante 10
+luxaru: posts the ante 10
+Woodsmen 13: posts the ante 10
+Spawn490: posts the ante 10
+eric73847: posts the ante 10
+toguz88: posts the ante 10
+kurkul76: posts small blind 50
+luxaru: posts big blind 100
+*** HOLE CARDS ***
+Dealt to eric73847 [9h Ah]
+Woodsmen 13: raises 100 to 200
+Spawn490: calls 200
+eric73847: raises 400 to 600
+toguz88 has timed out
+toguz88: folds 
+toguz88 is sitting out
+Mirmidoes: raises 700 to 1300
+B3PblBauKa: folds 
+kurkul76: folds 
+luxaru: calls 1200
+Woodsmen 13: folds 
+Spawn490: folds 
+eric73847: calls 700
+*** FLOP *** [Ts Ks Qh]
+luxaru: checks 
+eric73847: checks 
+Mirmidoes: bets 1000
+luxaru: calls 1000
+eric73847: calls 1000
+*** TURN *** [Ts Ks Qh] [Jd]
+luxaru: checks 
+eric73847: checks 
+Mirmidoes: checks 
+*** RIVER *** [Ts Ks Qh Jd] [Kc]
+luxaru: checks 
+eric73847: bets 3700
+Mirmidoes: raises 3652 to 7352 and is all-in
+luxaru: folds 
+eric73847: calls 3652
+*** SHOW DOWN ***
+Mirmidoes: shows [Js Jc] (a full house, Jacks full of Kings)
+eric73847: shows [9h Ah] (a straight, Ten to Ace)
+Mirmidoes collected 22134 from pot
+*** SUMMARY ***
+Total pot 22134 | Rake 0 
+Board [Ts Ks Qh Jd Kc]
+Seat 2: Mirmidoes showed [Js Jc] and won (22134) with a full house, Jacks full of Kings
+Seat 3: B3PblBauKa (button) folded before Flop (didn't bet)
+Seat 4: kurkul76 (small blind) folded before Flop
+Seat 5: luxaru (big blind) folded on the River
+Seat 6: Woodsmen 13 folded before Flop
+Seat 7: Spawn490 folded before Flop
+Seat 8: eric73847 showed [9h Ah] and lost with a straight, Ten to Ace
+Seat 9: toguz88 folded before Flop (didn't bet)

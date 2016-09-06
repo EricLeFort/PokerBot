@@ -1,0 +1,68 @@
+PokerStars Hand #154782616883: Tournament #1589370189, $2.00+$0.20 USD Hold'em No Limit - Level V (75/150) - 2016/06/15 17:04:20 ET
+Table '1589370189 4' 9-max Seat #4 is the button
+Seat 1: ajugar1 (4633 in chips) 
+Seat 2: KOWAL 0123 (21477 in chips) 
+Seat 3: Mindthis (8938 in chips) 
+Seat 4: michelgf85 (13257 in chips) 
+Seat 5: eric73847 (3409 in chips) is sitting out
+Seat 6: jcandidop4 (10955 in chips) 
+Seat 7: Old Brother (8582 in chips) 
+Seat 8: jesustar2 (9248 in chips) 
+Seat 9: ZINGAZINGER (5999 in chips) 
+ajugar1: posts the ante 20
+KOWAL 0123: posts the ante 20
+Mindthis: posts the ante 20
+michelgf85: posts the ante 20
+eric73847: posts the ante 20
+jcandidop4: posts the ante 20
+Old Brother: posts the ante 20
+jesustar2: posts the ante 20
+ZINGAZINGER: posts the ante 20
+eric73847: posts small blind 75
+jcandidop4: posts big blind 150
+*** HOLE CARDS ***
+Old Brother: folds 
+jesustar2: folds 
+ZINGAZINGER: calls 150
+ajugar1: raises 150 to 300
+KOWAL 0123: folds 
+Mindthis: folds 
+michelgf85: folds 
+eric73847: folds 
+jcandidop4: calls 150
+ZINGAZINGER: calls 150
+*** FLOP *** [4h Ad Tc]
+jcandidop4: checks 
+ZINGAZINGER: checks 
+ajugar1: bets 577
+jcandidop4: calls 577
+ZINGAZINGER: calls 577
+*** TURN *** [4h Ad Tc] [Kh]
+jcandidop4: checks 
+ZINGAZINGER: checks 
+ajugar1: bets 1923
+eric73847 has returned
+jcandidop4: raises 2625 to 4548
+ZINGAZINGER: raises 554 to 5102 and is all-in
+ajugar1: calls 1813 and is all-in
+jcandidop4: calls 554
+*** RIVER *** [4h Ad Tc Kh] [Ks]
+*** SHOW DOWN ***
+jcandidop4: shows [Jd As] (two pair, Aces and Kings)
+ZINGAZINGER: shows [Jc Qd] (a straight, Ten to Ace)
+ZINGAZINGER collected 2732 from side pot
+ajugar1: shows [Ah Qh] (two pair, Aces and Kings)
+ZINGAZINGER collected 14094 from main pot
+ajugar1 finished the tournament
+*** SUMMARY ***
+Total pot 16826 Main pot 14094. Side pot 2732. | Rake 0 
+Board [4h Ad Tc Kh Ks]
+Seat 1: ajugar1 showed [Ah Qh] and lost with two pair, Aces and Kings
+Seat 2: KOWAL 0123 folded before Flop (didn't bet)
+Seat 3: Mindthis folded before Flop (didn't bet)
+Seat 4: michelgf85 (button) folded before Flop (didn't bet)
+Seat 5: eric73847 (small blind) folded before Flop
+Seat 6: jcandidop4 (big blind) showed [Jd As] and lost with two pair, Aces and Kings
+Seat 7: Old Brother folded before Flop (didn't bet)
+Seat 8: jesustar2 folded before Flop (didn't bet)
+Seat 9: ZINGAZINGER showed [Jc Qd] and won (16826) with a straight, Ten to Ace

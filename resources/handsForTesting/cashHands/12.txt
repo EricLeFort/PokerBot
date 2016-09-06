@@ -1,0 +1,43 @@
+PokerStars Hand #154488945141:  Hold'em No Limit ($0.05/$0.10 USD) - 2016/06/08 22:09:35 ET
+Table 'Gratia' 9-max Seat #1 is the button
+Seat 1: SOAcrazy ($0.84 in chips) 
+Seat 2: Leorabotaet ($10.71 in chips) 
+Seat 3: czar0fhearts ($10 in chips) 
+Seat 4: Fduchun ($18.98 in chips) 
+Seat 5: JMKslave ($10.45 in chips) 
+Seat 6: eric73847 ($14.37 in chips) 
+Seat 7: SGA713 ($10.56 in chips) 
+Seat 8: dub555 ($10 in chips) 
+Seat 9: UncleBell ($12.06 in chips) 
+Leorabotaet: posts small blind $0.05
+czar0fhearts: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to eric73847 [Ah 2d]
+Fduchun: folds 
+JMKslave: folds 
+eric73847: calls $0.10
+SGA713: folds 
+dub555: folds 
+UncleBell: folds 
+SOAcrazy: calls $0.10
+Leorabotaet: folds 
+czar0fhearts: checks 
+*** FLOP *** [4d Ac Ts]
+czar0fhearts: checks 
+eric73847: bets $0.20
+SOAcrazy: folds 
+czar0fhearts: folds 
+Uncalled bet ($0.20) returned to eric73847
+eric73847 collected $0.33 from pot
+*** SUMMARY ***
+Total pot $0.35 | Rake $0.02 
+Board [4d Ac Ts]
+Seat 1: SOAcrazy (button) folded on the Flop
+Seat 2: Leorabotaet (small blind) folded before Flop
+Seat 3: czar0fhearts (big blind) folded on the Flop
+Seat 4: Fduchun folded before Flop (didn't bet)
+Seat 5: JMKslave folded before Flop (didn't bet)
+Seat 6: eric73847 collected ($0.33)
+Seat 7: SGA713 folded before Flop (didn't bet)
+Seat 8: dub555 folded before Flop (didn't bet)
+Seat 9: UncleBell folded before Flop (didn't bet)

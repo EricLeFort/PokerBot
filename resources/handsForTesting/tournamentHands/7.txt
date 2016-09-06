@@ -1,0 +1,57 @@
+PokerStars Hand #154525731264: Tournament #1583942318, $3.41+$3.41+$0.68 USD Hold'em No Limit - Level XXVI (900/1800) - 2016/06/09 19:06:28 ET
+Table '1583942318 29' 9-max Seat #3 is the button
+Seat 1: Gambla125 (123214 in chips) 
+Seat 2: soumi7 (213347 in chips) 
+Seat 3: mitaliem25 (69860 in chips) 
+Seat 4: DaShuiYu0773 (97420 in chips) 
+Seat 5: matokr (129149 in chips) 
+Seat 6: dplunks (20744 in chips) 
+Seat 7: Ojciec82 (133392 in chips) 
+Seat 8: loolly1 (43681 in chips) 
+Seat 9: Archimedes29 (23757 in chips) 
+Gambla125: posts the ante 270
+soumi7: posts the ante 270
+mitaliem25: posts the ante 270
+DaShuiYu0773: posts the ante 270
+matokr: posts the ante 270
+dplunks: posts the ante 270
+Ojciec82: posts the ante 270
+loolly1: posts the ante 270
+Archimedes29: posts the ante 270
+DaShuiYu0773: posts small blind 900
+matokr: posts big blind 1800
+*** HOLE CARDS ***
+dplunks: folds 
+Ojciec82: folds 
+loolly1: folds 
+Archimedes29: folds 
+Gambla125: folds 
+soumi7: raises 2250 to 4050
+mitaliem25: folds 
+DaShuiYu0773: folds 
+matokr: calls 2250
+*** FLOP *** [7h 7s 9d]
+matokr: checks 
+soumi7: bets 4572
+matokr: raises 8435 to 13007
+soumi7: raises 13093 to 26100
+matokr: calls 13093
+*** TURN *** [7h 7s 9d] [Kc]
+matokr: checks 
+soumi7: bets 28800
+matokr: raises 69929 to 98729 and is all-in
+soumi7: folds 
+Uncalled bet (69929) returned to matokr
+matokr collected 121230 from pot
+*** SUMMARY ***
+Total pot 121230 | Rake 0 
+Board [7h 7s 9d Kc]
+Seat 1: Gambla125 folded before Flop (didn't bet)
+Seat 2: soumi7 folded on the Turn
+Seat 3: mitaliem25 (button) folded before Flop (didn't bet)
+Seat 4: DaShuiYu0773 (small blind) folded before Flop
+Seat 5: matokr (big blind) collected (121230)
+Seat 6: dplunks folded before Flop (didn't bet)
+Seat 7: Ojciec82 folded before Flop (didn't bet)
+Seat 8: loolly1 folded before Flop (didn't bet)
+Seat 9: Archimedes29 folded before Flop (didn't bet)

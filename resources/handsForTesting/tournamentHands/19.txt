@@ -1,0 +1,62 @@
+PokerStars Hand #154782560196: Tournament #1589383749, $1.00+$1.00+$0.20 USD Hold'em No Limit - Level VII (100/200) - 2016/06/15 17:03:11 ET
+Table '1589383749 172' 9-max Seat #9 is the button
+Seat 1: WAAAAAAAAGH! (17117 in chips) 
+Seat 2: mahoni174 (10000 in chips) 
+Seat 3: BIGUN32 (8710 in chips) 
+Seat 4: Júh x) (13696 in chips) 
+Seat 5: eric73847 (18743 in chips) 
+Seat 6: Giardino87 (15110 in chips) 
+Seat 7: jokis65 (9910 in chips) 
+Seat 8: Nikolaj1976 (9244 in chips) 
+Seat 9: Cholo Terco (11096 in chips) 
+WAAAAAAAAGH!: posts the ante 20
+mahoni174: posts the ante 20
+BIGUN32: posts the ante 20
+Júh x): posts the ante 20
+eric73847: posts the ante 20
+Giardino87: posts the ante 20
+jokis65: posts the ante 20
+Nikolaj1976: posts the ante 20
+Cholo Terco: posts the ante 20
+WAAAAAAAAGH!: posts small blind 100
+mahoni174: posts big blind 200
+*** HOLE CARDS ***
+Dealt to eric73847 [4h 6d]
+BIGUN32: folds 
+Júh x): folds 
+eric73847 is disconnected 
+eric73847 has timed out while disconnected
+eric73847: folds 
+eric73847 is sitting out
+Giardino87: folds 
+jokis65: calls 200
+Nikolaj1976: folds 
+Cholo Terco: folds 
+WAAAAAAAAGH!: calls 100
+mahoni174: checks 
+*** FLOP *** [3c Tc 6h]
+WAAAAAAAAGH!: bets 200
+mahoni174: raises 200 to 400
+jokis65: calls 400
+WAAAAAAAAGH!: calls 200
+*** TURN *** [3c Tc 6h] [3s]
+WAAAAAAAAGH!: bets 200
+mahoni174: raises 400 to 600
+jokis65: folds 
+WAAAAAAAAGH!: raises 3180 to 3780
+mahoni174: folds 
+Uncalled bet (3180) returned to WAAAAAAAAGH!
+WAAAAAAAAGH! collected 3180 from pot
+WAAAAAAAAGH!: doesn't show hand 
+*** SUMMARY ***
+Total pot 3180 | Rake 0 
+Board [3c Tc 6h 3s]
+Seat 1: WAAAAAAAAGH! (small blind) collected (3180)
+Seat 2: mahoni174 (big blind) folded on the Turn
+Seat 3: BIGUN32 folded before Flop (didn't bet)
+Seat 4: Júh x) folded before Flop (didn't bet)
+Seat 5: eric73847 folded before Flop (didn't bet)
+Seat 6: Giardino87 folded before Flop (didn't bet)
+Seat 7: jokis65 folded on the Turn
+Seat 8: Nikolaj1976 folded before Flop (didn't bet)
+Seat 9: Cholo Terco (button) folded before Flop (didn't bet)

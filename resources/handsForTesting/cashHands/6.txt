@@ -1,0 +1,53 @@
+PokerStars Hand #154488226656:  Hold'em No Limit ($0.05/$0.10 USD) - 2016/06/08 21:36:49 ET
+Table 'Gratia' 9-max Seat #4 is the button
+Seat 1: SOAcrazy ($10 in chips) 
+Seat 2: muffy31 ($11.43 in chips) 
+Seat 3: treize959 ($10.57 in chips) 
+Seat 4: Fduchun ($11.33 in chips) 
+Seat 5: JMKslave ($8.27 in chips) 
+Seat 6: eric73847 ($14.01 in chips) 
+Seat 7: SGA713 ($10.10 in chips) 
+Seat 8: dub555 ($10 in chips) 
+JMKslave: posts small blind $0.05
+eric73847: posts big blind $0.10
+UncleBell: sits out 
+SOAcrazy: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to eric73847 [3h 3d]
+SGA713: folds 
+dub555: folds 
+SOAcrazy: raises $0.10 to $0.20
+muffy31: folds 
+treize959: folds 
+Fduchun: calls $0.20
+JMKslave: calls $0.15
+eric73847: calls $0.10
+*** FLOP *** [8h 6d 7s]
+JMKslave: checks 
+eric73847: checks 
+SOAcrazy: checks 
+Fduchun: checks 
+*** TURN *** [8h 6d 7s] [9d]
+JMKslave: checks 
+eric73847: bets $0.30
+SOAcrazy: calls $0.30
+Fduchun: folds 
+JMKslave: folds 
+*** RIVER *** [8h 6d 7s 9d] [6h]
+eric73847: bets $0.80
+SOAcrazy: calls $0.80
+*** SHOW DOWN ***
+eric73847: shows [3h 3d] (two pair, Sixes and Threes)
+SOAcrazy: shows [5s Qs] (a straight, Five to Nine)
+SOAcrazy collected $2.86 from pot
+*** SUMMARY ***
+Total pot $3 | Rake $0.14 
+Board [8h 6d 7s 9d 6h]
+Seat 1: SOAcrazy showed [5s Qs] and won ($2.86) with a straight, Five to Nine
+Seat 2: muffy31 folded before Flop (didn't bet)
+Seat 3: treize959 folded before Flop (didn't bet)
+Seat 4: Fduchun (button) folded on the Turn
+Seat 5: JMKslave (small blind) folded on the Turn
+Seat 6: eric73847 (big blind) showed [3h 3d] and lost with two pair, Sixes and Threes
+Seat 7: SGA713 folded before Flop (didn't bet)
+Seat 8: dub555 folded before Flop (didn't bet)

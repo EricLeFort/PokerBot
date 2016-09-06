@@ -1,0 +1,32 @@
+PokerStars Hand #156453228279: Tournament #1627705871, 870+130 Hold'em No Limit - Level II (15/30) - 2016/07/25 23:49:57 ET
+Table '1627705871 1' 6-max Seat #1 is the button
+Seat 1: eric73847 (595 in chips) 
+Seat 3: DiegoPC13 (1955 in chips) 
+Seat 5: bramario11 (3450 in chips) 
+DiegoPC13: posts small blind 15
+bramario11: posts big blind 30
+*** HOLE CARDS ***
+Dealt to eric73847 [Ac Ad]
+eric73847: raises 60 to 90
+DiegoPC13: calls 75
+bramario11: folds 
+*** FLOP *** [6h 7s 8s]
+DiegoPC13: checks 
+eric73847: bets 90
+DiegoPC13: calls 90
+*** TURN *** [6h 7s 8s] [Qd]
+DiegoPC13: checks 
+eric73847: checks 
+*** RIVER *** [6h 7s 8s Qd] [9s]
+DiegoPC13: bets 90
+eric73847: calls 90
+*** SHOW DOWN ***
+DiegoPC13: shows [Th 7h] (a straight, Six to Ten)
+eric73847: mucks hand 
+DiegoPC13 collected 570 from pot
+*** SUMMARY ***
+Total pot 570 | Rake 0 
+Board [6h 7s 8s Qd 9s]
+Seat 1: eric73847 (button) mucked [Ac Ad]
+Seat 3: DiegoPC13 (small blind) showed [Th 7h] and won (570) with a straight, Six to Ten
+Seat 5: bramario11 (big blind) folded before Flop

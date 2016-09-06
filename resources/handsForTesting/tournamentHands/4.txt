@@ -1,0 +1,59 @@
+PokerStars Hand #154486313716: Tournament #1583942410, $7.50+$7.50+$1.50 USD Hold'em No Limit - Level XIV (125/250) - 2016/06/08 20:22:17 ET
+Table '1583942410 137' 9-max Seat #1 is the button
+Seat 1: Hausvabot (19029 in chips) 
+Seat 2: jokerr84 (13325 in chips) 
+Seat 3: SunnySide333 (7904 in chips) 
+Seat 4: alagoano217 (9580 in chips) 
+Seat 5: PEDRO77NANNI (5013 in chips) 
+Seat 6: reuber007 (10057 in chips) 
+Seat 7: maximusjag (4151 in chips) 
+Seat 8: eric73847 (16284 in chips) 
+Seat 9: Junim tarado (8135 in chips) 
+Hausvabot: posts the ante 38
+jokerr84: posts the ante 38
+SunnySide333: posts the ante 38
+alagoano217: posts the ante 38
+PEDRO77NANNI: posts the ante 38
+reuber007: posts the ante 38
+maximusjag: posts the ante 38
+eric73847: posts the ante 38
+Junim tarado: posts the ante 38
+jokerr84: posts small blind 125
+SunnySide333: posts big blind 250
+*** HOLE CARDS ***
+Dealt to eric73847 [Js Ts]
+alagoano217: folds 
+PEDRO77NANNI: folds 
+reuber007: calls 250
+maximusjag: folds 
+eric73847: raises 750 to 1000
+Junim tarado: folds 
+Hausvabot: calls 1000
+jokerr84: folds 
+SunnySide333: folds 
+reuber007: calls 750
+*** FLOP *** [Tc 5d 8d]
+reuber007: checks 
+eric73847: bets 2000
+Hausvabot: calls 2000
+reuber007: raises 7019 to 9019 and is all-in
+eric73847: calls 7019
+Hausvabot: folds 
+*** TURN *** [Tc 5d 8d] [Ac]
+*** RIVER *** [Tc 5d 8d Ac] [9c]
+*** SHOW DOWN ***
+reuber007: shows [Qd Td] (a pair of Tens)
+eric73847: shows [Js Ts] (a pair of Tens - lower kicker)
+reuber007 collected 23755 from pot
+*** SUMMARY ***
+Total pot 23755 | Rake 0 
+Board [Tc 5d 8d Ac 9c]
+Seat 1: Hausvabot (button) folded on the Flop
+Seat 2: jokerr84 (small blind) folded before Flop
+Seat 3: SunnySide333 (big blind) folded before Flop
+Seat 4: alagoano217 folded before Flop (didn't bet)
+Seat 5: PEDRO77NANNI folded before Flop (didn't bet)
+Seat 6: reuber007 showed [Qd Td] and won (23755) with a pair of Tens
+Seat 7: maximusjag folded before Flop (didn't bet)
+Seat 8: eric73847 showed [Js Ts] and lost with a pair of Tens
+Seat 9: Junim tarado folded before Flop (didn't bet)

@@ -1,0 +1,56 @@
+PokerStars Hand #154486697793: Tournament #1583923189, $2.00+$0.20 USD Hold'em No Limit - Level II (200/400) - 2016/06/08 20:35:53 ET
+Table '1583923189 10' 9-max Seat #1 is the button
+Seat 1: LatentRegard (2540 in chips) 
+Seat 2: oky0416 (2760 in chips) 
+Seat 4: Auliab (4640 in chips) 
+Seat 5: eric73847 (3420 in chips) 
+Seat 6: EREVAN GanG (9720 in chips) 
+Seat 7: EjT99 (3000 in chips) 
+Seat 8: jbcarbonero (3760 in chips) 
+Seat 9: Serg___32436 (1380 in chips) 
+LatentRegard: posts the ante 40
+oky0416: posts the ante 40
+Auliab: posts the ante 40
+eric73847: posts the ante 40
+EREVAN GanG: posts the ante 40
+EjT99: posts the ante 40
+jbcarbonero: posts the ante 40
+Serg___32436: posts the ante 40
+oky0416: posts small blind 200
+Auliab: posts big blind 400
+*** HOLE CARDS ***
+Dealt to eric73847 [Ad Kh]
+eric73847: raises 2980 to 3380 and is all-in
+EREVAN GanG has timed out
+EREVAN GanG: folds 
+EREVAN GanG is sitting out
+EjT99: folds 
+jbcarbonero: folds 
+Serg___32436: calls 1340 and is all-in
+LatentRegard: folds 
+EREVAN GanG has returned
+oky0416: calls 2520 and is all-in
+Auliab: folds 
+Uncalled bet (660) returned to eric73847
+*** FLOP *** [5h 2s 2d]
+*** TURN *** [5h 2s 2d] [5c]
+*** RIVER *** [5h 2s 2d 5c] [8c]
+*** SHOW DOWN ***
+oky0416: shows [7c Ks] (two pair, Fives and Deuces)
+eric73847: shows [Ad Kh] (two pair, Fives and Deuces - Ace kicker)
+eric73847 collected 2760 from side pot
+Serg___32436: shows [As 3c] (two pair, Fives and Deuces)
+eric73847 collected 2370 from main pot
+Serg___32436 collected 2370 from main pot
+oky0416 finished the tournament
+*** SUMMARY ***
+Total pot 7500 Main pot 4740. Side pot 2760. | Rake 0 
+Board [5h 2s 2d 5c 8c]
+Seat 1: LatentRegard (button) folded before Flop (didn't bet)
+Seat 2: oky0416 (small blind) showed [7c Ks] and lost with two pair, Fives and Deuces
+Seat 4: Auliab (big blind) folded before Flop
+Seat 5: eric73847 showed [Ad Kh] and won (5130) with two pair, Fives and Deuces
+Seat 6: EREVAN GanG folded before Flop (didn't bet)
+Seat 7: EjT99 folded before Flop (didn't bet)
+Seat 8: jbcarbonero folded before Flop (didn't bet)
+Seat 9: Serg___32436 showed [As 3c] and won (2370) with two pair, Fives and Deuces

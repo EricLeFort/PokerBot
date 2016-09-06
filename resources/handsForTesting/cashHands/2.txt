@@ -1,0 +1,45 @@
+PokerStars Hand #154487705626:  Hold'em No Limit ($0.05/$0.10 USD) - 2016/06/08 21:14:59 ET
+Table 'Gratia' 9-max Seat #6 is the button
+Seat 1: cartman177 ($10 in chips) 
+Seat 2: muffy31 ($12.08 in chips) 
+Seat 3: treize959 ($10.15 in chips) 
+Seat 4: Fduchun ($10 in chips) 
+Seat 6: eric73847 ($12.03 in chips) 
+Seat 7: SGA713 ($10 in chips) 
+Seat 8: Cichy-tcz ($9.43 in chips) 
+SGA713: posts small blind $0.05
+Cichy-tcz: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to eric73847 [9d Jd]
+cartman177: folds 
+muffy31: folds 
+treize959: folds 
+eric73847 said, "Jeez, he must've really not believed me"
+Fduchun: folds 
+eric73847: raises $0.15 to $0.25
+SGA713: folds 
+Cichy-tcz: calls $0.15
+*** FLOP *** [3h 5h As]
+Cichy-tcz: checks 
+eric73847: checks 
+*** TURN *** [3h 5h As] [Qc]
+Cichy-tcz: checks 
+m@tUr0cK joins the table at seat #9 
+eric73847: checks 
+*** RIVER *** [3h 5h As Qc] [5d]
+Cichy-tcz: checks 
+eric73847: checks 
+*** SHOW DOWN ***
+Cichy-tcz: shows [8s 9s] (a pair of Fives)
+eric73847: shows [9d Jd] (a pair of Fives - Ace+Queen+Jack kicker)
+eric73847 collected $0.53 from pot
+*** SUMMARY ***
+Total pot $0.55 | Rake $0.02 
+Board [3h 5h As Qc 5d]
+Seat 1: cartman177 folded before Flop (didn't bet)
+Seat 2: muffy31 folded before Flop (didn't bet)
+Seat 3: treize959 folded before Flop (didn't bet)
+Seat 4: Fduchun folded before Flop (didn't bet)
+Seat 6: eric73847 (button) showed [9d Jd] and won ($0.53) with a pair of Fives
+Seat 7: SGA713 (small blind) folded before Flop
+Seat 8: Cichy-tcz (big blind) showed [8s 9s] and lost with a pair of Fives

@@ -1,0 +1,38 @@
+PokerStars Hand #154530894694: Tournament #1583938574, $2.00+$0.20 USD Hold'em Limit - Level II (60/120) - 2016/06/09 22:13:40 ET
+Table '1583938574 2' 6-max Seat #1 is the button
+Seat 1: Payne1020 (4600 in chips) 
+Seat 2: Katyusha.RU (2515 in chips) 
+Seat 4: eric73847 (2970 in chips) 
+Seat 5: DPC1955 (3465 in chips) 
+Seat 6: Aishi11 (3000 in chips) 
+Katyusha.RU: posts small blind 30
+eric73847: posts big blind 60
+*** HOLE CARDS ***
+Dealt to eric73847 [Qc 8c]
+DPC1955: folds 
+Aishi11: raises 60 to 120
+Payne1020: raises 60 to 180
+Katyusha.RU: folds 
+eric73847: folds 
+Aishi11: calls 60
+*** FLOP *** [7s 4h 8h]
+Aishi11: checks 
+Payne1020: checks 
+*** TURN *** [7s 4h 8h] [Qd]
+Aishi11: checks 
+Payne1020: checks 
+*** RIVER *** [7s 4h 8h Qd] [Kh]
+Aishi11: checks 
+Payne1020: checks 
+*** SHOW DOWN ***
+Aishi11: shows [Th Ad] (high card Ace)
+Payne1020: mucks hand 
+Aishi11 collected 450 from pot
+*** SUMMARY ***
+Total pot 450 | Rake 0 
+Board [7s 4h 8h Qd Kh]
+Seat 1: Payne1020 (button) mucked [3s As]
+Seat 2: Katyusha.RU (small blind) folded before Flop
+Seat 4: eric73847 (big blind) folded before Flop
+Seat 5: DPC1955 folded before Flop (didn't bet)
+Seat 6: Aishi11 showed [Th Ad] and won (450) with high card Ace

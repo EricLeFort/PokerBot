@@ -1,0 +1,54 @@
+PokerStars Hand #154783770240: Tournament #1589383749, $1.00+$1.00+$0.20 USD Hold'em No Limit - Level X (200/400) - 2016/06/15 17:28:28 ET
+Table '1589383749 172' 9-max Seat #2 is the button
+Seat 1: WAAAAAAAAGH! (21349 in chips) 
+Seat 2: Denavasek (17661 in chips) 
+Seat 4: Júh x) (18851 in chips) 
+Seat 5: eric73847 (38979 in chips) 
+Seat 6: Giardino87 (15657 in chips) 
+Seat 7: Japrimel (8688 in chips) 
+Seat 8: Nikolaj1976 (26580 in chips) 
+Seat 9: Cholo Terco (5861 in chips) 
+WAAAAAAAAGH!: posts the ante 40
+Denavasek: posts the ante 40
+Júh x): posts the ante 40
+eric73847: posts the ante 40
+Giardino87: posts the ante 40
+Japrimel: posts the ante 40
+Nikolaj1976: posts the ante 40
+Cholo Terco: posts the ante 40
+Júh x): posts small blind 200
+eric73847: posts big blind 400
+*** HOLE CARDS ***
+Dealt to eric73847 [9c 4c]
+Giardino87: folds 
+Japrimel: folds 
+Nikolaj1976: folds 
+Cholo Terco: raises 1200 to 1600
+WAAAAAAAAGH!: calls 1600
+Denavasek: folds 
+Júh x): calls 1400
+eric73847: folds 
+*** FLOP *** [Ac 8c Qc]
+Júh x): checks 
+Cholo Terco: bets 2000
+WAAAAAAAAGH!: raises 17709 to 19709 and is all-in
+Júh x): folds 
+Cholo Terco: calls 2221 and is all-in
+Uncalled bet (15488) returned to WAAAAAAAAGH!
+*** TURN *** [Ac 8c Qc] [6h]
+*** RIVER *** [Ac 8c Qc 6h] [4s]
+*** SHOW DOWN ***
+Cholo Terco: shows [Ah Qd] (two pair, Aces and Queens)
+WAAAAAAAAGH!: shows [Jc Qs] (a pair of Queens)
+Cholo Terco collected 13962 from pot
+*** SUMMARY ***
+Total pot 13962 | Rake 0 
+Board [Ac 8c Qc 6h 4s]
+Seat 1: WAAAAAAAAGH! showed [Jc Qs] and lost with a pair of Queens
+Seat 2: Denavasek (button) folded before Flop (didn't bet)
+Seat 4: Júh x) (small blind) folded on the Flop
+Seat 5: eric73847 (big blind) folded before Flop
+Seat 6: Giardino87 folded before Flop (didn't bet)
+Seat 7: Japrimel folded before Flop (didn't bet)
+Seat 8: Nikolaj1976 folded before Flop (didn't bet)
+Seat 9: Cholo Terco showed [Ah Qd] and won (13962) with two pair, Aces and Queens

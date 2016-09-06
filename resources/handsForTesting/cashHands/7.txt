@@ -1,0 +1,37 @@
+PokerStars Hand #154488476304:  Hold'em No Limit ($0.05/$0.10 USD) - 2016/06/08 21:47:30 ET
+Table 'Gratia' 9-max Seat #7 is the button
+Seat 1: SOAcrazy ($13.02 in chips) 
+Seat 2: muffy31 ($10.99 in chips) 
+Seat 4: Fduchun ($11.15 in chips) 
+Seat 5: JMKslave ($10 in chips) 
+Seat 6: eric73847 ($12.81 in chips) 
+Seat 7: SGA713 ($10 in chips) 
+Seat 8: dub555 ($10 in chips) 
+Seat 9: UncleBell ($11.22 in chips) 
+dub555: posts small blind $0.05
+UncleBell: posts big blind $0.10
+czar0fhearts: sits out 
+*** HOLE CARDS ***
+Dealt to eric73847 [Kc As]
+SOAcrazy: folds 
+muffy31: calls $0.10
+Fduchun: folds 
+JMKslave: raises $0.35 to $0.45
+eric73847: raises $0.75 to $1.20
+SGA713: folds 
+dub555: folds 
+UncleBell: folds 
+muffy31: folds 
+JMKslave: folds 
+Uncalled bet ($0.75) returned to eric73847
+eric73847 collected $1.15 from pot
+*** SUMMARY ***
+Total pot $1.15 | Rake $0 
+Seat 1: SOAcrazy folded before Flop (didn't bet)
+Seat 2: muffy31 folded before Flop
+Seat 4: Fduchun folded before Flop (didn't bet)
+Seat 5: JMKslave folded before Flop
+Seat 6: eric73847 collected ($1.15)
+Seat 7: SGA713 (button) folded before Flop (didn't bet)
+Seat 8: dub555 (small blind) folded before Flop
+Seat 9: UncleBell (big blind) folded before Flop

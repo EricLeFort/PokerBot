@@ -1,0 +1,37 @@
+PokerStars Hand #154653235919:  Hold'em No Limit ($0.05/$0.10 USD) - 2016/06/12 16:50:30 ET
+Table 'Raissa II' 9-max Seat #3 is the button
+Seat 1: necron4a ($5.20 in chips) 
+Seat 2: theone1 (no) ($9.89 in chips) 
+Seat 3: eric73847 ($5.49 in chips) 
+Seat 6: Csiripiri ($10 in chips) 
+Seat 8: vla.lip ($11.57 in chips) 
+Seat 9: dandyl71 ($9.90 in chips) 
+Csiripiri: posts small blind $0.05
+vla.lip: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to eric73847 [9h Qd]
+dandyl71: raises $0.30 to $0.40
+necron4a: folds 
+theone1 (no): folds 
+eric73847: calls $0.40
+Csiripiri: folds 
+vla.lip: folds 
+*** FLOP *** [3d Ad 8c]
+dandyl71: bets $0.91
+eric73847: raises $1.09 to $2
+dandyl71: calls $1.09
+*** TURN *** [3d Ad 8c] [8s]
+dandyl71: checks 
+eric73847: bets $3.09 and is all-in
+dandyl71: folds 
+Uncalled bet ($3.09) returned to eric73847
+eric73847 collected $4.73 from pot
+*** SUMMARY ***
+Total pot $4.95 | Rake $0.22 
+Board [3d Ad 8c 8s]
+Seat 1: necron4a folded before Flop (didn't bet)
+Seat 2: theone1 (no) folded before Flop (didn't bet)
+Seat 3: eric73847 (button) collected ($4.73)
+Seat 6: Csiripiri (small blind) folded before Flop
+Seat 8: vla.lip (big blind) folded before Flop
+Seat 9: dandyl71 folded on the Turn

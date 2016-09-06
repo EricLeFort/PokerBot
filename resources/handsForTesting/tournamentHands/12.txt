@@ -1,0 +1,66 @@
+PokerStars Hand #154602084947: Tournament #1584693798, $2.00+$0.20 USD Hold'em No Limit - Level X (125/250) - 2016/06/11 15:09:40 ET
+Table '1584693798 51' 9-max Seat #6 is the button
+Seat 1: eric73847 (14383 in chips) 
+Seat 2: ofearthefish (4395 in chips) 
+Seat 3: polutnik (1566 in chips) 
+Seat 4: Stas33Rad (6245 in chips) 
+Seat 5: Bimbo1893 (2135 in chips) 
+Seat 6: Jurajda81 (5148 in chips) 
+Seat 7: Jorge_Max (25698 in chips) 
+Seat 8: acke090 (7665 in chips) 
+Seat 9: Tymofei (3307 in chips) 
+eric73847: posts the ante 30
+ofearthefish: posts the ante 30
+polutnik: posts the ante 30
+Stas33Rad: posts the ante 30
+Bimbo1893: posts the ante 30
+Jurajda81: posts the ante 30
+Jorge_Max: posts the ante 30
+acke090: posts the ante 30
+Tymofei: posts the ante 30
+Jorge_Max: posts small blind 125
+acke090: posts big blind 250
+*** HOLE CARDS ***
+Dealt to eric73847 [5d 3c]
+Tymofei: folds 
+eric73847: folds 
+ofearthefish: folds 
+polutnik: folds 
+Stas33Rad: folds 
+Bimbo1893: calls 250
+Jurajda81: calls 250
+Jorge_Max: calls 125
+acke090: checks 
+*** FLOP *** [Ad Kh 2s]
+Jorge_Max: checks 
+acke090: checks 
+Bimbo1893: checks 
+Jurajda81: checks 
+*** TURN *** [Ad Kh 2s] [7c]
+Jorge_Max: checks 
+acke090: checks 
+Bimbo1893: checks 
+Jurajda81: checks 
+*** RIVER *** [Ad Kh 2s 7c] [Qc]
+Jorge_Max: checks 
+acke090: checks 
+Bimbo1893: checks 
+Jurajda81: checks 
+*** SHOW DOWN ***
+Jorge_Max: shows [8h 5s] (high card Ace)
+acke090: shows [4c Qd] (a pair of Queens)
+Bimbo1893: mucks hand 
+Jurajda81: mucks hand 
+acke090 collected 1270 from pot
+*** SUMMARY ***
+Total pot 1270 | Rake 0 
+Board [Ad Kh 2s 7c Qc]
+Seat 1: eric73847 folded before Flop (didn't bet)
+Seat 2: ofearthefish folded before Flop (didn't bet)
+Seat 3: polutnik folded before Flop (didn't bet)
+Seat 4: Stas33Rad folded before Flop (didn't bet)
+Seat 5: Bimbo1893 mucked [3d 3s]
+Seat 6: Jurajda81 (button) mucked [9d Th]
+Seat 7: Jorge_Max (small blind) showed [8h 5s] and lost with high card Ace
+Seat 8: acke090 (big blind) showed [4c Qd] and won (1270) with a pair of Queens
+Seat 9: Tymofei folded before Flop (didn't bet)

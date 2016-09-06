@@ -1,0 +1,47 @@
+PokerStars Hand #154487916859:  Hold'em No Limit ($0.05/$0.10 USD) - 2016/06/08 21:23:44 ET
+Table 'Gratia' 9-max Seat #1 is the button
+Seat 1: cartman177 ($10.82 in chips) 
+Seat 2: muffy31 ($12.27 in chips) 
+Seat 3: treize959 ($10 in chips) 
+Seat 4: Fduchun ($10 in chips) 
+Seat 6: eric73847 ($12.26 in chips) 
+Seat 7: SGA713 ($10 in chips) 
+Seat 8: Cichy-tcz ($9.49 in chips) 
+Seat 9: m@tUr0cK ($4.89 in chips) 
+muffy31: posts small blind $0.05
+treize959: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to eric73847 [3c 6c]
+Fduchun: folds 
+eric73847: folds 
+SGA713: folds 
+Cichy-tcz: calls $0.10
+m@tUr0cK: folds 
+cartman177: folds 
+muffy31: raises $0.10 to $0.20
+treize959: folds 
+Cichy-tcz: calls $0.10
+*** FLOP *** [4s 7d 2h]
+muffy31: bets $0.10
+Cichy-tcz: calls $0.10
+*** TURN *** [4s 7d 2h] [Jc]
+muffy31: bets $0.10
+Cichy-tcz: calls $0.10
+*** RIVER *** [4s 7d 2h Jc] [Kc]
+muffy31: bets $0.10
+Cichy-tcz: calls $0.10
+*** SHOW DOWN ***
+muffy31: shows [Ac Qs] (high card Ace)
+Cichy-tcz: shows [Qh 7h] (a pair of Sevens)
+Cichy-tcz collected $1.05 from pot
+*** SUMMARY ***
+Total pot $1.10 | Rake $0.05 
+Board [4s 7d 2h Jc Kc]
+Seat 1: cartman177 (button) folded before Flop (didn't bet)
+Seat 2: muffy31 (small blind) showed [Ac Qs] and lost with high card Ace
+Seat 3: treize959 (big blind) folded before Flop
+Seat 4: Fduchun folded before Flop (didn't bet)
+Seat 6: eric73847 folded before Flop (didn't bet)
+Seat 7: SGA713 folded before Flop (didn't bet)
+Seat 8: Cichy-tcz showed [Qh 7h] and won ($1.05) with a pair of Sevens
+Seat 9: m@tUr0cK folded before Flop (didn't bet)

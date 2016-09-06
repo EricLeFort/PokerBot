@@ -1,0 +1,53 @@
+PokerStars Hand #154793675593: Tournament #1589370826, $2.00+$0.20 USD Hold'em No Limit - Level IV (30/60) - 2016/06/15 23:02:46 ET
+Table '1589370826 16' 9-max Seat #5 is the button
+Seat 1: JoseKing88 (2994 in chips) 
+Seat 2: Talon269 (2994 in chips) 
+Seat 3: eric73847 (4181 in chips) 
+Seat 4: peterpapa68 (8685 in chips) 
+Seat 5: rounder13777 (8189 in chips) 
+Seat 6: wollersheim (2700 in chips) 
+Seat 7: Pdox (4484 in chips) 
+Seat 8: artega777 (2976 in chips) 
+Seat 9: dion_frank (4973 in chips) 
+JoseKing88: posts the ante 7
+Talon269: posts the ante 7
+eric73847: posts the ante 7
+peterpapa68: posts the ante 7
+rounder13777: posts the ante 7
+wollersheim: posts the ante 7
+Pdox: posts the ante 7
+artega777: posts the ante 7
+dion_frank: posts the ante 7
+wollersheim: posts small blind 30
+Pdox: posts big blind 60
+*** HOLE CARDS ***
+Dealt to eric73847 [As 5s]
+artega777: folds 
+dion_frank: folds 
+JoseKing88: folds 
+Talon269: folds 
+eric73847: raises 120 to 180
+peterpapa68: calls 180
+rounder13777: calls 180
+wollersheim: calls 150
+Pdox: folds 
+*** FLOP *** [3s Js Jd]
+wollersheim: checks 
+eric73847: bets 420
+peterpapa68: folds 
+rounder13777: folds 
+wollersheim: folds 
+Uncalled bet (420) returned to eric73847
+eric73847 collected 843 from pot
+*** SUMMARY ***
+Total pot 843 | Rake 0 
+Board [3s Js Jd]
+Seat 1: JoseKing88 folded before Flop (didn't bet)
+Seat 2: Talon269 folded before Flop (didn't bet)
+Seat 3: eric73847 collected (843)
+Seat 4: peterpapa68 folded on the Flop
+Seat 5: rounder13777 (button) folded on the Flop
+Seat 6: wollersheim (small blind) folded on the Flop
+Seat 7: Pdox (big blind) folded before Flop
+Seat 8: artega777 folded before Flop (didn't bet)
+Seat 9: dion_frank folded before Flop (didn't bet)

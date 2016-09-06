@@ -1,0 +1,33 @@
+PokerStars Hand #154534127857: Tournament #1583938574, $2.00+$0.20 USD Hold'em Limit - Level XVIII (2500/5000) - 2016/06/10 1:22:06 ET
+Table '1583938574 8' 6-max Seat #2 is the button
+Seat 1: eric73847 (81210 in chips) 
+Seat 2: MIKE491 (68790 in chips) 
+MIKE491: posts small blind 1250
+eric73847: posts big blind 2500
+*** HOLE CARDS ***
+Dealt to eric73847 [6c 6s]
+MIKE491: raises 2500 to 5000
+eric73847: raises 2500 to 7500
+MIKE491: calls 2500
+*** FLOP *** [Qs 6h 2d]
+eric73847: bets 2500
+MIKE491: calls 2500
+*** TURN *** [Qs 6h 2d] [8d]
+eric73847: bets 5000
+MIKE491: raises 5000 to 10000
+eric73847: raises 5000 to 15000
+MIKE491: calls 5000
+*** RIVER *** [Qs 6h 2d 8d] [4d]
+eric73847: checks 
+MIKE491: bets 5000
+eric73847: calls 5000
+*** SHOW DOWN ***
+MIKE491: shows [Qh 9s] (a pair of Queens)
+eric73847: shows [6c 6s] (three of a kind, Sixes)
+eric73847 said, "no way, nuh uh"
+eric73847 collected 60000 from pot
+*** SUMMARY ***
+Total pot 60000 | Rake 0 
+Board [Qs 6h 2d 8d 4d]
+Seat 1: eric73847 (big blind) showed [6c 6s] and won (60000) with three of a kind, Sixes
+Seat 2: MIKE491 (button) (small blind) showed [Qh 9s] and lost with a pair of Queens

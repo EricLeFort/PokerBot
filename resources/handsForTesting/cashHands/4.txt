@@ -1,0 +1,49 @@
+PokerStars Hand #154488116915:  Hold'em No Limit ($0.05/$0.10 USD) - 2016/06/08 21:32:01 ET
+Table 'Gratia' 9-max Seat #5 is the button
+Seat 1: cartman177 ($10.52 in chips) 
+Seat 2: muffy31 ($11.35 in chips) 
+Seat 3: treize959 ($10.35 in chips) 
+Seat 4: Fduchun ($10 in chips) 
+Seat 5: JMKslave ($9.85 in chips) 
+Seat 6: eric73847 ($14.11 in chips) 
+Seat 7: SGA713 ($10 in chips) 
+Seat 8: dub555 ($10 in chips) 
+eric73847: posts small blind $0.05
+SGA713: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to eric73847 [2d 2s]
+dub555: folds 
+cartman177: folds 
+muffy31: folds 
+treize959: folds 
+Fduchun: raises $0.15 to $0.25
+JMKslave: calls $0.25
+eric73847: calls $0.20
+SGA713: folds 
+*** FLOP *** [7c Ts 5s]
+eric73847: checks 
+Fduchun: bets $0.48
+JMKslave: calls $0.48
+eric73847: folds 
+*** TURN *** [7c Ts 5s] [2h]
+Fduchun: checks 
+JMKslave: bets $0.75
+Fduchun: calls $0.75
+*** RIVER *** [7c Ts 5s 2h] [Js]
+Fduchun: checks 
+JMKslave: checks 
+*** SHOW DOWN ***
+Fduchun: shows [Tc Ad] (a pair of Tens)
+JMKslave: mucks hand 
+Fduchun collected $3.16 from pot
+*** SUMMARY ***
+Total pot $3.31 | Rake $0.15 
+Board [7c Ts 5s 2h Js]
+Seat 1: cartman177 folded before Flop (didn't bet)
+Seat 2: muffy31 folded before Flop (didn't bet)
+Seat 3: treize959 folded before Flop (didn't bet)
+Seat 4: Fduchun showed [Tc Ad] and won ($3.16) with a pair of Tens
+Seat 5: JMKslave (button) mucked [9h 9c]
+Seat 6: eric73847 (small blind) folded on the Flop
+Seat 7: SGA713 (big blind) folded before Flop
+Seat 8: dub555 folded before Flop (didn't bet)

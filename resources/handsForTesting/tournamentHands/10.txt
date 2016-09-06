@@ -1,0 +1,38 @@
+PokerStars Hand #154532324720: Tournament #1583938574, $2.00+$0.20 USD Hold'em Limit - Level IX (500/1000) - 2016/06/09 23:28:02 ET
+Table '1583938574 9' 6-max Seat #1 is the button
+Seat 1: BigSleuthy (2060 in chips) 
+Seat 2: eric73847 (15690 in chips) 
+Seat 4: joseoliva920 (24900 in chips) 
+Seat 5: kebwana (5980 in chips) 
+Seat 6: derdex (2400 in chips) 
+eric73847: posts small blind 250
+joseoliva920: posts big blind 500
+*** HOLE CARDS ***
+Dealt to eric73847 [Td 3h]
+kebwana: folds 
+derdex: raises 500 to 1000
+BigSleuthy: raises 500 to 1500
+eric73847: folds 
+joseoliva920: folds 
+derdex: raises 500 to 2000
+Betting is capped
+BigSleuthy: calls 500
+*** FLOP *** [7h Ts 8s]
+derdex: bets 400 and is all-in
+BigSleuthy: calls 60 and is all-in
+Uncalled bet (340) returned to derdex
+*** TURN *** [7h Ts 8s] [7s]
+*** RIVER *** [7h Ts 8s 7s] [Qh]
+*** SHOW DOWN ***
+derdex: shows [2h 2c] (two pair, Sevens and Deuces)
+BigSleuthy: shows [Js 5c] (a pair of Sevens)
+derdex collected 4870 from pot
+BigSleuthy finished the tournament in 17th place
+*** SUMMARY ***
+Total pot 4870 | Rake 0 
+Board [7h Ts 8s 7s Qh]
+Seat 1: BigSleuthy (button) showed [Js 5c] and lost with a pair of Sevens
+Seat 2: eric73847 (small blind) folded before Flop
+Seat 4: joseoliva920 (big blind) folded before Flop
+Seat 5: kebwana folded before Flop (didn't bet)
+Seat 6: derdex showed [2h 2c] and won (4870) with two pair, Sevens and Deuces

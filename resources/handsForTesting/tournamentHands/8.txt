@@ -1,0 +1,45 @@
+PokerStars Hand #154530695680: Tournament #1583938574, $2.00+$0.20 USD Hold'em Limit - Level I (50/100) - 2016/06/09 22:04:35 ET
+Table '1583938574 2' 6-max Seat #6 is the button
+Seat 1: babygabriiel (2950 in chips) is sitting out
+Seat 2: Katyusha.RU (3100 in chips) 
+Seat 3: BigSleuthy (2650 in chips) 
+Seat 4: eric73847 (3000 in chips) 
+Seat 5: DPC1955 (3025 in chips) 
+Seat 6: JackieCh1Les (3125 in chips) 
+babygabriiel: posts small blind 25
+Katyusha.RU: posts big blind 50
+*** HOLE CARDS ***
+Dealt to eric73847 [Jc 8c]
+BigSleuthy: calls 50
+eric73847: folds 
+DPC1955: folds 
+JackieCh1Les: calls 50
+babygabriiel: folds 
+Katyusha.RU: checks 
+*** FLOP *** [7c 3s 9c]
+Katyusha.RU: checks 
+BigSleuthy: checks 
+JackieCh1Les: checks 
+*** TURN *** [7c 3s 9c] [Tc]
+Katyusha.RU: checks 
+BigSleuthy: checks 
+JackieCh1Les: checks 
+*** RIVER *** [7c 3s 9c Tc] [5s]
+Katyusha.RU: checks 
+BigSleuthy: bets 100
+JackieCh1Les: calls 100
+Katyusha.RU: calls 100
+*** SHOW DOWN ***
+BigSleuthy: shows [5h 8d] (a pair of Fives)
+JackieCh1Les: shows [Ah Ts] (a pair of Tens)
+Katyusha.RU: mucks hand 
+JackieCh1Les collected 475 from pot
+*** SUMMARY ***
+Total pot 475 | Rake 0 
+Board [7c 3s 9c Tc 5s]
+Seat 1: babygabriiel (small blind) folded before Flop
+Seat 2: Katyusha.RU (big blind) mucked [9d 2c]
+Seat 3: BigSleuthy showed [5h 8d] and lost with a pair of Fives
+Seat 4: eric73847 folded before Flop (didn't bet)
+Seat 5: DPC1955 folded before Flop (didn't bet)
+Seat 6: JackieCh1Les (button) showed [Ah Ts] and won (475) with a pair of Tens

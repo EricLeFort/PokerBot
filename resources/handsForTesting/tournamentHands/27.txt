@@ -1,0 +1,56 @@
+PokerStars Hand #154965890744: Tournament #1596269008, $0.50+$0.05 USD Hold'em No Limit - Level XIII (250/500) - 2016/06/20 2:22:54 ET
+Table '1596269008 19' 9-max Seat #5 is the button
+Seat 1: JOKKER220 (1835 in chips) 
+Seat 2: ESHKILLLL (5045 in chips) 
+Seat 3: daniel.beçao (16529 in chips) 
+Seat 4: yanoudy (10813 in chips) 
+Seat 5: nutrinho87 (7755 in chips) 
+Seat 6: Maxcool88 (7520 in chips) 
+Seat 7: dell.rbt (6395 in chips) 
+Seat 8: eric73847 (18017 in chips) 
+Seat 9: RayRay566 (9310 in chips) 
+JOKKER220: posts the ante 65
+ESHKILLLL: posts the ante 65
+daniel.beçao: posts the ante 65
+yanoudy: posts the ante 65
+nutrinho87: posts the ante 65
+Maxcool88: posts the ante 65
+dell.rbt: posts the ante 65
+eric73847: posts the ante 65
+RayRay566: posts the ante 65
+Maxcool88: posts small blind 250
+dell.rbt: posts big blind 500
+*** HOLE CARDS ***
+Dealt to eric73847 [Tc Jd]
+eric73847: raises 500 to 1000
+RayRay566: folds 
+JOKKER220: folds 
+ESHKILLLL: folds 
+daniel.beçao: calls 1000
+yanoudy: folds 
+nutrinho87: raises 6690 to 7690 and is all-in
+Maxcool88: calls 7205 and is all-in
+dell.rbt: folds 
+eric73847: folds 
+daniel.beçao: folds [Ac]
+Uncalled bet (235) returned to nutrinho87
+*** FLOP *** [6h 4s 3s]
+*** TURN *** [6h 4s 3s] [9h]
+*** RIVER *** [6h 4s 3s 9h] [4h]
+*** SHOW DOWN ***
+Maxcool88: shows [Qd Kd] (a pair of Fours)
+nutrinho87: shows [Jh As] (a pair of Fours - Ace kicker)
+nutrinho87 collected 17995 from pot
+Maxcool88 finished the tournament
+*** SUMMARY ***
+Total pot 17995 | Rake 0 
+Board [6h 4s 3s 9h 4h]
+Seat 1: JOKKER220 folded before Flop (didn't bet)
+Seat 2: ESHKILLLL folded before Flop (didn't bet)
+Seat 3: daniel.beçao folded before Flop
+Seat 4: yanoudy folded before Flop (didn't bet)
+Seat 5: nutrinho87 (button) showed [Jh As] and won (17995) with a pair of Fours
+Seat 6: Maxcool88 (small blind) showed [Qd Kd] and lost with a pair of Fours
+Seat 7: dell.rbt (big blind) folded before Flop
+Seat 8: eric73847 folded before Flop
+Seat 9: RayRay566 folded before Flop (didn't bet)

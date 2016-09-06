@@ -1,0 +1,57 @@
+PokerStars Hand #154486144341: Tournament #1583942410, $7.50+$7.50+$1.50 USD Hold'em No Limit - Level XIII (100/200) - 2016/06/08 20:16:19 ET
+Table '1583942410 137' 9-max Seat #5 is the button
+Seat 1: Hausvabot (19586 in chips) 
+Seat 2: jokerr84 (11040 in chips) 
+Seat 3: SunnySide333 (3248 in chips) 
+Seat 4: alagoano217 (11112 in chips) 
+Seat 5: PEDRO77NANNI (6479 in chips) 
+Seat 6: reuber007 (10339 in chips) 
+Seat 7: maximusjag (3941 in chips) 
+Seat 8: eric73847 (17941 in chips) 
+Seat 9: Junim tarado (9792 in chips) 
+Hausvabot: posts the ante 30
+jokerr84: posts the ante 30
+SunnySide333: posts the ante 30
+alagoano217: posts the ante 30
+PEDRO77NANNI: posts the ante 30
+reuber007: posts the ante 30
+maximusjag: posts the ante 30
+eric73847: posts the ante 30
+Junim tarado: posts the ante 30
+reuber007: posts small blind 100
+maximusjag: posts big blind 200
+*** HOLE CARDS ***
+Dealt to eric73847 [9c Qc]
+eric73847: raises 400 to 600
+Junim tarado: calls 600
+Hausvabot: folds 
+jokerr84: folds 
+SunnySide333: calls 600
+alagoano217: calls 600
+PEDRO77NANNI: raises 5849 to 6449 and is all-in
+reuber007: folds 
+maximusjag: folds 
+eric73847: folds 
+Junim tarado: folds 
+SunnySide333: calls 2618 and is all-in
+alagoano217: folds 
+Uncalled bet (3231) returned to PEDRO77NANNI
+*** FLOP *** [Ks 4c Th]
+*** TURN *** [Ks 4c Th] [Js]
+*** RIVER *** [Ks 4c Th Js] [Qs]
+*** SHOW DOWN ***
+SunnySide333: shows [9s 9d] (a straight, Nine to King)
+PEDRO77NANNI: shows [4d 4h] (three of a kind, Fours)
+SunnySide333 collected 8806 from pot
+*** SUMMARY ***
+Total pot 8806 | Rake 0 
+Board [Ks 4c Th Js Qs]
+Seat 1: Hausvabot folded before Flop (didn't bet)
+Seat 2: jokerr84 folded before Flop (didn't bet)
+Seat 3: SunnySide333 showed [9s 9d] and won (8806) with a straight, Nine to King
+Seat 4: alagoano217 folded before Flop
+Seat 5: PEDRO77NANNI (button) showed [4d 4h] and lost with three of a kind, Fours
+Seat 6: reuber007 (small blind) folded before Flop
+Seat 7: maximusjag (big blind) folded before Flop
+Seat 8: eric73847 folded before Flop
+Seat 9: Junim tarado folded before Flop

@@ -1,0 +1,63 @@
+PokerStars Hand #154486223236: Tournament #1583942410, $7.50+$7.50+$1.50 USD Hold'em No Limit - Level XIV (125/250) - 2016/06/08 20:19:05 ET
+Table '1583942410 70' 9-max Seat #2 is the button
+Seat 1: qcouest (21206 in chips) is sitting out
+Seat 2: T0X16- (6791 in chips) 
+Seat 3: jaquegon (29640 in chips) 
+Seat 4: Bopel (6704 in chips) 
+Seat 5: nafnaf_funny (17601 in chips) 
+Seat 6: sl@wko99 (5221 in chips) 
+Seat 7: NOVI.T73 (6571 in chips) 
+Seat 8: VixenKoala (8351 in chips) 
+Seat 9: GarlicXToast (12161 in chips) 
+qcouest: posts the ante 38
+T0X16-: posts the ante 38
+jaquegon: posts the ante 38
+Bopel: posts the ante 38
+nafnaf_funny: posts the ante 38
+sl@wko99: posts the ante 38
+NOVI.T73: posts the ante 38
+VixenKoala: posts the ante 38
+GarlicXToast: posts the ante 38
+jaquegon: posts small blind 125
+Bopel: posts big blind 250
+*** HOLE CARDS ***
+nafnaf_funny is disconnected 
+nafnaf_funny has timed out while disconnected
+nafnaf_funny: folds 
+nafnaf_funny is sitting out
+nafnaf_funny has returned
+sl@wko99: folds 
+NOVI.T73: folds 
+VixenKoala: folds 
+GarlicXToast: folds 
+qcouest: folds 
+T0X16-: raises 250 to 500
+jaquegon: calls 375
+Bopel: raises 6166 to 6666 and is all-in
+T0X16-: raises 87 to 6753 and is all-in
+jaquegon: calls 6253
+*** FLOP *** [Qs 8c Jh]
+*** TURN *** [Qs 8c Jh] [7d]
+*** RIVER *** [Qs 8c Jh 7d] [2h]
+*** SHOW DOWN ***
+jaquegon: shows [Kd Qd] (a pair of Queens)
+T0X16-: shows [Js Ac] (a pair of Jacks)
+jaquegon collected 174 from side pot
+Bopel: shows [Ah 6s] (high card Ace)
+jaquegon collected 20340 from main pot
+jaquegon wins $3.75 for eliminating T0X16- and their own bounty increases by $3.75 to $22.50
+jaquegon wins $3.75 for eliminating Bopel and their own bounty increases by $3.75 to $26.25
+T0X16- finished the tournament
+Bopel finished the tournament
+*** SUMMARY ***
+Total pot 20514 Main pot 20340. Side pot 174. | Rake 0 
+Board [Qs 8c Jh 7d 2h]
+Seat 1: qcouest folded before Flop (didn't bet)
+Seat 2: T0X16- (button) showed [Js Ac] and lost with a pair of Jacks
+Seat 3: jaquegon (small blind) showed [Kd Qd] and won (20514) with a pair of Queens
+Seat 4: Bopel (big blind) showed [Ah 6s] and lost with high card Ace
+Seat 5: nafnaf_funny folded before Flop (didn't bet)
+Seat 6: sl@wko99 folded before Flop (didn't bet)
+Seat 7: NOVI.T73 folded before Flop (didn't bet)
+Seat 8: VixenKoala folded before Flop (didn't bet)
+Seat 9: GarlicXToast folded before Flop (didn't bet)

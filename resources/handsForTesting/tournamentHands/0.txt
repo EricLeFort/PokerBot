@@ -1,0 +1,50 @@
+PokerStars Hand #154485884249: Tournament #1583942410, $7.50+$7.50+$1.50 USD Hold'em No Limit - Level XII (90/180) - 2016/06/08 20:07:21 ET
+Table '1583942410 103' 9-max Seat #9 is the button
+Seat 1: MeJI4444 (6712 in chips) 
+Seat 2: Freakin Sick (21622 in chips) 
+Seat 3: maximusjag (5538 in chips) is sitting out
+Seat 4: damibor (5297 in chips) 
+Seat 5: Takis1966 (4896 in chips) 
+Seat 6: eric73847 (13074 in chips) 
+Seat 7: Guga[Gs] (8706 in chips) 
+Seat 9: alagoano217 (13478 in chips) 
+MeJI4444: posts the ante 27
+Freakin Sick: posts the ante 27
+maximusjag: posts the ante 27
+damibor: posts the ante 27
+Takis1966: posts the ante 27
+eric73847: posts the ante 27
+Guga[Gs]: posts the ante 27
+alagoano217: posts the ante 27
+MeJI4444: posts small blind 90
+Freakin Sick: posts big blind 180
+*** HOLE CARDS ***
+Dealt to eric73847 [2d Qd]
+maximusjag: folds 
+damibor: raises 180 to 360
+Takis1966: raises 4509 to 4869 and is all-in
+eric73847: folds 
+Guga[Gs]: folds 
+alagoano217: folds 
+MeJI4444: raises 1816 to 6685 and is all-in
+Freakin Sick: folds 
+damibor: folds 
+Uncalled bet (1816) returned to MeJI4444
+*** FLOP *** [Qh Ah Tc]
+*** TURN *** [Qh Ah Tc] [8c]
+*** RIVER *** [Qh Ah Tc 8c] [7c]
+*** SHOW DOWN ***
+MeJI4444: shows [As Ad] (three of a kind, Aces)
+Takis1966: shows [Ac Qc] (a flush, Ace high)
+Takis1966 collected 10494 from pot
+*** SUMMARY ***
+Total pot 10494 | Rake 0 
+Board [Qh Ah Tc 8c 7c]
+Seat 1: MeJI4444 (small blind) showed [As Ad] and lost with three of a kind, Aces
+Seat 2: Freakin Sick (big blind) folded before Flop
+Seat 3: maximusjag folded before Flop (didn't bet)
+Seat 4: damibor folded before Flop
+Seat 5: Takis1966 showed [Ac Qc] and won (10494) with a flush, Ace high
+Seat 6: eric73847 folded before Flop (didn't bet)
+Seat 7: Guga[Gs] folded before Flop (didn't bet)
+Seat 9: alagoano217 (button) folded before Flop (didn't bet)

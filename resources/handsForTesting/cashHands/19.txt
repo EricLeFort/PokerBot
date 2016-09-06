@@ -1,0 +1,49 @@
+PokerStars Hand #154652568897:  Hold'em No Limit ($0.05/$0.10 USD) - 2016/06/12 16:36:54 ET
+Table 'Raissa II' 9-max Seat #6 is the button
+Seat 1: necron4a ($4.79 in chips) 
+Seat 2: theone1 (no) ($9.04 in chips) 
+Seat 3: eric73847 ($6.09 in chips) 
+Seat 4: elviesa ($19.39 in chips) 
+Seat 5: Chukylaje ($0.93 in chips) 
+Seat 6: seanypud ($14.15 in chips) 
+Seat 8: vla.lip ($10.64 in chips) 
+Seat 9: kexitt10 ($10 in chips) 
+vla.lip: posts small blind $0.05
+kexitt10: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to eric73847 [9h 4c]
+necron4a: folds 
+theone1 (no): folds 
+eric73847: folds 
+ale9030 leaves the table
+elviesa: folds 
+Xavikm joins the table at seat #7 
+Chukylaje: raises $0.15 to $0.25
+seanypud: calls $0.25
+vla.lip: raises $0.75 to $1
+kexitt10: folds 
+Chukylaje: calls $0.68 and is all-in
+seanypud: calls $0.75
+*** FLOP *** [5c 3d Ah]
+vla.lip: bets $1.50
+seanypud: folds 
+Uncalled bet ($1.50) returned to vla.lip
+*** TURN *** [5c 3d Ah] [5h]
+*** RIVER *** [5c 3d Ah 5h] [6d]
+*** SHOW DOWN ***
+vla.lip: shows [Jc Qd] (a pair of Fives)
+vla.lip collected $0.13 from side pot
+Chukylaje: shows [Qc Jh] (a pair of Fives)
+vla.lip collected $1.38 from main pot
+Chukylaje collected $1.38 from main pot
+*** SUMMARY ***
+Total pot $3.03 Main pot $2.76. Side pot $0.13. | Rake $0.14 
+Board [5c 3d Ah 5h 6d]
+Seat 1: necron4a folded before Flop (didn't bet)
+Seat 2: theone1 (no) folded before Flop (didn't bet)
+Seat 3: eric73847 folded before Flop (didn't bet)
+Seat 4: elviesa folded before Flop (didn't bet)
+Seat 5: Chukylaje showed [Qc Jh] and won ($1.38) with a pair of Fives
+Seat 6: seanypud (button) folded on the Flop
+Seat 8: vla.lip (small blind) showed [Jc Qd] and won ($1.51) with a pair of Fives
+Seat 9: kexitt10 (big blind) folded before Flop

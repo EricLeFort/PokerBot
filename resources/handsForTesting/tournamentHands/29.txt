@@ -1,0 +1,44 @@
+PokerStars Hand #156296541174: Tournament #1624686169, 870+130 Hold'em No Limit - Level IV (50/100) - 2016/07/22 10:26:38 ET
+Table '1624686169 3' 9-max Seat #8 is the button
+Seat 1: BRECA114 (3525 in chips) 
+Seat 2: eric73847 (9063 in chips) 
+Seat 3: canokieman (4805 in chips) 
+Seat 4: sidenkai (1375 in chips) 
+Seat 6: acehunter777 (7830 in chips) 
+Seat 7: hd rider fxd (2396 in chips) 
+Seat 8: chorão6969 (6351 in chips) 
+BRECA114: posts small blind 50
+eric73847: posts big blind 100
+*** HOLE CARDS ***
+Dealt to eric73847 [Jd 2c]
+canokieman: folds 
+sidenkai: folds 
+acehunter777: folds 
+hd rider fxd: folds 
+chorão6969: raises 100 to 200
+BRECA114: calls 150
+eric73847: folds 
+*** FLOP *** [8s Js 9d]
+BRECA114: bets 100
+chorão6969: calls 100
+*** TURN *** [8s Js 9d] [Qd]
+BRECA114: bets 100
+chorão6969: raises 900 to 1000
+BRECA114: calls 900
+*** RIVER *** [8s Js 9d Qd] [7s]
+BRECA114: checks 
+chorão6969: bets 2700
+BRECA114: folds 
+Uncalled bet (2700) returned to chorão6969
+chorão6969 collected 2700 from pot
+chorão6969: doesn't show hand 
+*** SUMMARY ***
+Total pot 2700 | Rake 0 
+Board [8s Js 9d Qd 7s]
+Seat 1: BRECA114 (small blind) folded on the River
+Seat 2: eric73847 (big blind) folded before Flop
+Seat 3: canokieman folded before Flop (didn't bet)
+Seat 4: sidenkai folded before Flop (didn't bet)
+Seat 6: acehunter777 folded before Flop (didn't bet)
+Seat 7: hd rider fxd folded before Flop (didn't bet)
+Seat 8: chorão6969 (button) collected (2700)

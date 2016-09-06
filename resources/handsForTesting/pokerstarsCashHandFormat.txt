@@ -1,0 +1,110 @@
+PokerStars Hand #HAND_ID:  GAME_TYPE ($SB/$BB CURRENCY) - YYYY/MM/DD HH:MM:SS TIMEZONE
+Table 'TABLE_NAME' TABLE_TYPE Seat #BUTTON_POSITION is the button
+Seat 1: PLAYER1_NAME ($STACK1 in chips)
+Seat N: PLAYERN_NAME ($STACKN in chips)					//From 1-N for however many players
+PLAYER#_NAME: posts the ante $ANTE						//Only included if there's an ante greater than 0.
+PLAYER#_NAME: is sitting out							//is sitting out is optional
+PLAYER#_NAME: posts small blind $SB
+PLAYER#_NAME: posts big blind $BB
+*** HOLE CARDS ***
+Dealt to PLAYER#_NAME [VALUE_SUIT VALUE_SUIT]					//For as many as are known?
+PLAYER#_NAME: ACTION								//For as many as necessary
+*** FLOP *** [VALUE_SUIT VALUE_SUIT VALUE_SUIT]
+PLAYER#_NAME: ACTION								//For as many as necessary
+*** TURN *** [VALUE_SUIT VALUE_SUIT VALUE_SUIT] [VALUE_SUIT]
+PLAYER#_NAME: ACTION								//For as many as necessary
+*** RIVER *** [VALUE_SUIT VALUE_SUIT VALUE_SUIT VALUE_SUIT] [VALUE_SUIT]
+PLAYER#_NAME: ACTION								//For as many as necessary
+*** SHOW DOWN ***
+PLAYER#_NAME: shows [VALUE_SUIT VALUE_SUIT] (HAND_TYPE)			//For all that show
+PLAYER#_NAME: mucks hand
+PLAYER#_NAME: collected $WINNINGS from pot					//For each player that won money
+*** SUMMARY ***
+Total pot $POT | Rake $RAKE
+Board [VALUE_SUIT VALUE_SUIT VALUE_SUIT VALUE_SUIT VALUE_SUIT]
+Seat 1: PLAYER_NAME (button) folded TIME
+Seat 2: PLAYER_NAME (small blind) showed [VALUE_SUIT VALUE_SUIT] and lost with HAND_TYPE
+Seat 3: PLAYER_NAME (big blind) showed [VALUE_SUIT VALUE_SUIT] and won ($WINNINGS) with HAND_TYPE
+Seat 4: PLAYER_NAME mucked [VALUE_SUIT VALUE_SUIT]
+Seat 5: PLAYER_NAME folded TIME
+Seat 6: PLAYER_NAME folded TIME
+
+--------------------------------------------------------------------------------------------------------
+
+
+
+Notes:
+ACTION - Can be of the following forms:
+	* folds
+	* calls $CALL_AMOUNT
+	* bets $BET_AMOUNT
+	* raises $RAISE_AMOUNT to $TOTAL_BET
+
+GAME_TYPE - Should always be: "Hold'em No Limit".
+Monetary Variables - Of the form XXX.YY or if YY = 00, XXX. If YY = 30, still XXX.YY.
+CURRENCY - Something like USD, CAD, etc.
+TIMEZONE - Something like ET, etc.
+TABLE_NAME - Just a nonsense string i.e. Helionape.
+TABLE_TYPE - Not completely sure, was 6-max in this case.
+BUTTON_POSITION - Just a single digit (hopefully) between 1-9 inclusive.
+VALUE_SUIT - Looks like Ks or 9h.
+"collected $WINNINGS from pot" may also be "... from side pot" or "... from main pot," I'm not sure.
+HAND_TYPE - Should look them up to be safe: here's what I have:
+	* a pair of Kings
+	* two pair, Kings and Jacks
+TIME - One of the following:
+	* before Flop (didn't bet)
+	* before Flop
+	* on the Flop
+	* on the Turn
+	* on the River
+"Total pot $POT" may also include side pots?
+
+
+
+An example:
+--------------------------------------------------------------------------------------------------------
+PokerStars Hand #150669471391:  Hold'em No Limit ($0.02/$0.05 USD) - 2016/03/20 16:20:59 ET
+Table 'Helionape' 6-max Seat #5 is the button
+Seat 1: Urakbaev ($5.05 in chips) 
+Seat 2: sevac723 ($5 in chips) 
+Seat 3: plankkast ($5.58 in chips) 
+Seat 4: boxer821 ($5.25 in chips) 
+Seat 5: eric73847 ($6.30 in chips) 
+Seat 6: KRAWA101 ($5 in chips) 
+KRAWA101: posts small blind $0.02
+Urakbaev: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to eric73847 [Jc Kd]
+sevac723: folds 
+plankkast: calls $0.05
+boxer821: folds 
+eric73847: raises $0.10 to $0.15
+KRAWA101: folds 
+Urakbaev: folds 
+plankkast: calls $0.10
+*** FLOP *** [4d 9s 2s]
+plankkast: checks 
+eric73847: checks 
+*** TURN *** [4d 9s 2s] [Jh]
+plankkast: bets $0.17
+eric73847: raises $0.18 to $0.35
+plankkast: calls $0.18
+*** RIVER *** [4d 9s 2s Jh] [Kc]
+plankkast: checks 
+eric73847: bets $0.50
+plankkast: raises $2.03 to $2.53
+eric73847: calls $2.03
+*** SHOW DOWN ***
+plankkast: shows [Kh Ts] (a pair of Kings)
+eric73847: shows [Jc Kd] (two pair, Kings and Jacks)
+eric73847 collected $5.88 from pot
+*** SUMMARY ***
+Total pot $6.13 | Rake $0.25 
+Board [4d 9s 2s Jh Kc]
+Seat 1: Urakbaev (big blind) folded before Flop
+Seat 2: sevac723 folded before Flop (didn't bet)
+Seat 3: plankkast showed [Kh Ts] and lost with a pair of Kings
+Seat 4: boxer821 folded before Flop (didn't bet)
+Seat 5: eric73847 (button) showed [Jc Kd] and won ($5.88) with two pair, Kings and Jacks
+Seat 6: KRAWA101 (small blind) folded before Flop

@@ -1,0 +1,50 @@
+PokerStars Hand #156296313450: Tournament #1624686169, 870+130 Hold'em No Limit - Level IV (50/100) - 2016/07/22 10:19:43 ET
+Table '1624686169 3' 9-max Seat #3 is the button
+Seat 2: eric73847 (4238 in chips) 
+Seat 3: canokieman (5055 in chips) 
+Seat 4: sidenkai (1225 in chips) 
+Seat 5: zauiner (3139 in chips) 
+Seat 6: acehunter777 (7255 in chips) 
+Seat 7: hd rider fxd (898 in chips) 
+Seat 8: chorão6969 (4460 in chips) 
+Seat 9: Gladgirl (4150 in chips) 
+sidenkai: posts small blind 50
+zauiner: posts big blind 100
+*** HOLE CARDS ***
+Dealt to eric73847 [Ah Th]
+acehunter777: calls 100
+hd rider fxd: folds 
+chorão6969: folds 
+Gladgirl: calls 100
+eric73847: raises 200 to 300
+canokieman: folds 
+sidenkai: folds 
+zauiner: folds 
+acehunter777: calls 200
+Gladgirl: calls 200
+*** FLOP *** [As Jd Qd]
+acehunter777: checks 
+Gladgirl: checks 
+eric73847: bets 500
+acehunter777: folds 
+Gladgirl: calls 500
+*** TURN *** [As Jd Qd] [Kc]
+Gladgirl: bets 3350 and is all-in
+eric73847: calls 3350
+*** RIVER *** [As Jd Qd Kc] [Ad]
+*** SHOW DOWN ***
+Gladgirl: shows [8h Ks] (two pair, Aces and Kings)
+eric73847: shows [Ah Th] (a straight, Ten to Ace)
+eric73847 collected 8750 from pot
+Gladgirl finished the tournament in 16th place
+*** SUMMARY ***
+Total pot 8750 | Rake 0 
+Board [As Jd Qd Kc Ad]
+Seat 2: eric73847 showed [Ah Th] and won (8750) with a straight, Ten to Ace
+Seat 3: canokieman (button) folded before Flop (didn't bet)
+Seat 4: sidenkai (small blind) folded before Flop
+Seat 5: zauiner (big blind) folded before Flop
+Seat 6: acehunter777 folded on the Flop
+Seat 7: hd rider fxd folded before Flop (didn't bet)
+Seat 8: chorão6969 folded before Flop (didn't bet)
+Seat 9: Gladgirl showed [8h Ks] and lost with two pair, Aces and Kings

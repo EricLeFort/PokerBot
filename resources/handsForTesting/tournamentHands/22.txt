@@ -1,0 +1,63 @@
+PokerStars Hand #154783939487: Tournament #1589383749, $1.00+$1.00+$0.20 USD Hold'em No Limit - Level X (200/400) - 2016/06/15 17:31:52 ET
+Table '1589383749 172' 9-max Seat #9 is the button
+Seat 1: WAAAAAAAAGH! (9759 in chips) 
+Seat 2: Denavasek (17421 in chips) 
+Seat 3: Jonney389 (9800 in chips) 
+Seat 4: bernado352 (7860 in chips) 
+Seat 5: eric73847 (38139 in chips) 
+Seat 6: Giardino87 (15777 in chips) 
+Seat 7: Japrimel (26984 in chips) 
+Seat 8: Nikolaj1976 (31624 in chips) 
+Seat 9: Cholo Terco (14122 in chips) 
+WAAAAAAAAGH!: posts the ante 40
+Denavasek: posts the ante 40
+Jonney389: posts the ante 40
+bernado352: posts the ante 40
+eric73847: posts the ante 40
+Giardino87: posts the ante 40
+Japrimel: posts the ante 40
+Nikolaj1976: posts the ante 40
+Cholo Terco: posts the ante 40
+WAAAAAAAAGH!: posts small blind 200
+Denavasek: posts big blind 400
+*** HOLE CARDS ***
+Dealt to eric73847 [Ks 3s]
+Jonney389: folds 
+bernado352: folds 
+eric73847: raises 400 to 800
+Giardino87: calls 800
+Japrimel: folds 
+Nikolaj1976: calls 800
+Cholo Terco: folds 
+WAAAAAAAAGH!: folds 
+Denavasek: calls 400
+*** FLOP *** [9h Kh 8s]
+Denavasek: checks 
+eric73847: bets 2400
+Giardino87: calls 2400
+Nikolaj1976: folds 
+Denavasek: calls 2400
+*** TURN *** [9h Kh 8s] [5s]
+Denavasek: checks 
+eric73847: bets 5200
+Giardino87: calls 5200
+Denavasek: calls 5200
+*** RIVER *** [9h Kh 8s 5s] [2d]
+Denavasek: checks 
+eric73847: bets 9000
+Giardino87: folds 
+Denavasek: folds 
+Uncalled bet (9000) returned to eric73847
+eric73847 collected 26560 from pot
+*** SUMMARY ***
+Total pot 26560 | Rake 0 
+Board [9h Kh 8s 5s 2d]
+Seat 1: WAAAAAAAAGH! (small blind) folded before Flop
+Seat 2: Denavasek (big blind) folded on the River
+Seat 3: Jonney389 folded before Flop (didn't bet)
+Seat 4: bernado352 folded before Flop (didn't bet)
+Seat 5: eric73847 collected (26560)
+Seat 6: Giardino87 folded on the River
+Seat 7: Japrimel folded before Flop (didn't bet)
+Seat 8: Nikolaj1976 folded on the Flop
+Seat 9: Cholo Terco (button) folded before Flop (didn't bet)

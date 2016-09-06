@@ -1,0 +1,49 @@
+PokerStars Hand #154488620499:  Hold'em No Limit ($0.05/$0.10 USD) - 2016/06/08 21:53:59 ET
+Table 'Gratia' 9-max Seat #7 is the button
+Seat 1: SOAcrazy ($13.04 in chips) 
+Seat 3: czar0fhearts ($10 in chips) 
+Seat 4: Fduchun ($11 in chips) 
+Seat 5: JMKslave ($9.40 in chips) 
+Seat 6: eric73847 ($13.26 in chips) 
+Seat 7: SGA713 ($10.41 in chips) 
+Seat 8: dub555 ($10.05 in chips) 
+Seat 9: UncleBell ($11.57 in chips) 
+dub555: posts small blind $0.05
+UncleBell: posts big blind $0.10
+Leorabotaet: sits out 
+*** HOLE CARDS ***
+Dealt to eric73847 [3c Qh]
+SOAcrazy: raises $0.10 to $0.20
+czar0fhearts: folds 
+Fduchun: raises $0.55 to $0.75
+JMKslave: folds 
+eric73847: folds 
+SGA713: folds 
+dub555: folds 
+UncleBell: folds 
+SOAcrazy: calls $0.55
+*** FLOP *** [4s Th 8h]
+SOAcrazy: bets $1.58
+Fduchun: calls $1.58
+*** TURN *** [4s Th 8h] [5d]
+SOAcrazy: bets $1.90
+Fduchun: calls $1.90
+*** RIVER *** [4s Th 8h 5d] [2d]
+SOAcrazy: bets $2.20
+Fduchun: raises $4.57 to $6.77 and is all-in
+SOAcrazy: calls $4.57
+*** SHOW DOWN ***
+Fduchun: shows [Kh Kd] (a pair of Kings)
+SOAcrazy: shows [8d Ah] (a pair of Eights)
+Fduchun collected $21.15 from pot
+*** SUMMARY ***
+Total pot $22.15 | Rake $1 
+Board [4s Th 8h 5d 2d]
+Seat 1: SOAcrazy showed [8d Ah] and lost with a pair of Eights
+Seat 3: czar0fhearts folded before Flop (didn't bet)
+Seat 4: Fduchun showed [Kh Kd] and won ($21.15) with a pair of Kings
+Seat 5: JMKslave folded before Flop (didn't bet)
+Seat 6: eric73847 folded before Flop (didn't bet)
+Seat 7: SGA713 (button) folded before Flop (didn't bet)
+Seat 8: dub555 (small blind) folded before Flop
+Seat 9: UncleBell (big blind) folded before Flop

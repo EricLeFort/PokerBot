@@ -1,0 +1,44 @@
+PokerStars Hand #154602699502: Tournament #1584693798, $2.00+$0.20 USD Hold'em No Limit - Level XIII (250/500) - 2016/06/11 15:24:07 ET
+Table '1584693798 51' 9-max Seat #7 is the button
+Seat 1: eric73847 (28448 in chips) 
+Seat 2: XandeSL (9870 in chips) 
+Seat 3: joaobochnia (4870 in chips) 
+Seat 4: Volgo-Frans (5042 in chips) 
+Seat 5: XpomaTiD (45527 in chips) 
+Seat 6: Jurajda81 (27857 in chips) 
+Seat 7: Jorge_Max (21858 in chips) 
+Seat 9: bevaugust (3680 in chips) 
+eric73847: posts the ante 65
+XandeSL: posts the ante 65
+joaobochnia: posts the ante 65
+Volgo-Frans: posts the ante 65
+XpomaTiD: posts the ante 65
+Jurajda81: posts the ante 65
+Jorge_Max: posts the ante 65
+bevaugust: posts the ante 65
+bevaugust: posts small blind 250
+eric73847: posts big blind 500
+*** HOLE CARDS ***
+Dealt to eric73847 [Td Ad]
+XandeSL: folds 
+joaobochnia: folds 
+Volgo-Frans: folds 
+XpomaTiD: folds 
+Jurajda81: raises 500 to 1000
+Jorge_Max: raises 1000 to 2000
+bevaugust: folds 
+eric73847: raises 4500 to 6500
+Jurajda81: folds 
+Jorge_Max: folds 
+Uncalled bet (4500) returned to eric73847
+eric73847 collected 5770 from pot
+*** SUMMARY ***
+Total pot 5770 | Rake 0 
+Seat 1: eric73847 (big blind) collected (5770)
+Seat 2: XandeSL folded before Flop (didn't bet)
+Seat 3: joaobochnia folded before Flop (didn't bet)
+Seat 4: Volgo-Frans folded before Flop (didn't bet)
+Seat 5: XpomaTiD folded before Flop (didn't bet)
+Seat 6: Jurajda81 folded before Flop
+Seat 7: Jorge_Max (button) folded before Flop
+Seat 9: bevaugust (small blind) folded before Flop

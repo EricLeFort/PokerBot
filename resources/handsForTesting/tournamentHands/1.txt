@@ -1,0 +1,62 @@
+PokerStars Hand #154485992731: Tournament #1583942410, $7.50+$7.50+$1.50 USD Hold'em No Limit - Level XIII (100/200) - 2016/06/08 20:11:03 ET
+Table '1583942410 137' 9-max Seat #9 is the button
+Seat 1: Hausvabot (20628 in chips) 
+Seat 2: jokerr84 (6962 in chips) 
+Seat 3: SunnySide333 (5037 in chips) 
+Seat 4: alagoano217 (11562 in chips) 
+Seat 5: PEDRO77NANNI (5959 in chips) 
+Seat 6: reuber007 (16731 in chips) 
+Seat 7: maximusjag (3521 in chips) 
+Seat 8: eric73847 (12736 in chips) 
+Seat 9: Junim tarado (10342 in chips) 
+Hausvabot: posts the ante 30
+jokerr84: posts the ante 30
+SunnySide333: posts the ante 30
+alagoano217: posts the ante 30
+PEDRO77NANNI: posts the ante 30
+reuber007: posts the ante 30
+maximusjag: posts the ante 30
+eric73847: posts the ante 30
+Junim tarado: posts the ante 30
+Hausvabot: posts small blind 100
+jokerr84: posts big blind 200
+*** HOLE CARDS ***
+Dealt to eric73847 [Qs Qh]
+SunnySide333: calls 200
+alagoano217: folds 
+PEDRO77NANNI: folds 
+reuber007: folds 
+maximusjag: folds 
+eric73847: raises 600 to 800
+Junim tarado: folds 
+Hausvabot: folds 
+jokerr84: calls 600
+SunnySide333: calls 600
+*** FLOP *** [Kh 3c 5s]
+jokerr84: checks 
+SunnySide333: checks 
+eric73847: bets 1000
+jokerr84: folds 
+SunnySide333: calls 1000
+*** TURN *** [Kh 3c 5s] [9d]
+SunnySide333: checks 
+eric73847: checks 
+*** RIVER *** [Kh 3c 5s 9d] [4c]
+SunnySide333: bets 2385
+eric73847: calls 2385
+*** SHOW DOWN ***
+SunnySide333: shows [As Ts] (high card Ace)
+eric73847: shows [Qs Qh] (a pair of Queens)
+eric73847 collected 9540 from pot
+*** SUMMARY ***
+Total pot 9540 | Rake 0 
+Board [Kh 3c 5s 9d 4c]
+Seat 1: Hausvabot (small blind) folded before Flop
+Seat 2: jokerr84 (big blind) folded on the Flop
+Seat 3: SunnySide333 showed [As Ts] and lost with high card Ace
+Seat 4: alagoano217 folded before Flop (didn't bet)
+Seat 5: PEDRO77NANNI folded before Flop (didn't bet)
+Seat 6: reuber007 folded before Flop (didn't bet)
+Seat 7: maximusjag folded before Flop (didn't bet)
+Seat 8: eric73847 showed [Qs Qh] and won (9540) with a pair of Queens
+Seat 9: Junim tarado (button) folded before Flop (didn't bet)

@@ -1,0 +1,57 @@
+PokerStars Hand #154603869279: Tournament #1584693798, $2.00+$0.20 USD Hold'em No Limit - Level XVIII (600/1200) - 2016/06/11 15:51:26 ET
+Table '1584693798 197' 9-max Seat #6 is the button
+Seat 1: bertjensje (30948 in chips) 
+Seat 2: heredia0358 (14660 in chips) 
+Seat 3: Godoi Pedro (19020 in chips) 
+Seat 4: eric73847 (21859 in chips) 
+Seat 5: PufyS600 (7893 in chips) 
+Seat 6: Bond 1407 (22719 in chips) is sitting out
+Seat 7: Kl4jda (20850 in chips) 
+Seat 8: NYENB (38206 in chips) 
+Seat 9: HAY TGHA13 (57143 in chips) 
+bertjensje: posts the ante 150
+heredia0358: posts the ante 150
+Godoi Pedro: posts the ante 150
+eric73847: posts the ante 150
+PufyS600: posts the ante 150
+Bond 1407: posts the ante 150
+Kl4jda: posts the ante 150
+NYENB: posts the ante 150
+HAY TGHA13: posts the ante 150
+Kl4jda: posts small blind 600
+NYENB: posts big blind 1200
+*** HOLE CARDS ***
+Dealt to eric73847 [Ac Ts]
+HAY TGHA13: calls 1200
+bertjensje: folds 
+heredia0358: folds 
+Godoi Pedro: calls 1200
+Bond 1407 has returned
+eric73847: raises 2800 to 4000
+PufyS600: folds 
+Bond 1407: folds 
+Kl4jda: folds 
+NYENB: folds 
+HAY TGHA13: calls 2800
+Godoi Pedro: calls 2800
+*** FLOP *** [7s 5h Jh]
+HAY TGHA13: checks 
+Godoi Pedro: checks 
+eric73847: bets 7000
+HAY TGHA13: folds 
+Godoi Pedro: folds 
+Uncalled bet (7000) returned to eric73847
+eric73847 collected 15150 from pot
+eric73847: doesn't show hand 
+*** SUMMARY ***
+Total pot 15150 | Rake 0 
+Board [7s 5h Jh]
+Seat 1: bertjensje folded before Flop (didn't bet)
+Seat 2: heredia0358 folded before Flop (didn't bet)
+Seat 3: Godoi Pedro folded on the Flop
+Seat 4: eric73847 collected (15150)
+Seat 5: PufyS600 folded before Flop (didn't bet)
+Seat 6: Bond 1407 (button) folded before Flop (didn't bet)
+Seat 7: Kl4jda (small blind) folded before Flop
+Seat 8: NYENB (big blind) folded before Flop
+Seat 9: HAY TGHA13 folded on the Flop

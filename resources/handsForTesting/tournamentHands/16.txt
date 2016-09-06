@@ -1,0 +1,58 @@
+PokerStars Hand #154658481510: Tournament #1583928725, $1.00+$0.10 USD Hold'em No Limit - Level VIII (75/150) - 2016/06/12 18:40:03 ET
+Table '1583928725 33' 9-max Seat #6 is the button
+Seat 1: felipepg21 (6579 in chips) 
+Seat 2: sixo8zed (9280 in chips) 
+Seat 3: gourou 2121 (5004 in chips) 
+Seat 4: eric73847 (9714 in chips) 
+Seat 5: IrishHero16 (3806 in chips) 
+Seat 6: Gazorpozorp (2812 in chips) 
+Seat 7: Kontuzeniy (9002 in chips) 
+Seat 8: carloszidan (3000 in chips) 
+Seat 9: 777strash (10686 in chips) 
+felipepg21: posts the ante 20
+sixo8zed: posts the ante 20
+gourou 2121: posts the ante 20
+eric73847: posts the ante 20
+IrishHero16: posts the ante 20
+Gazorpozorp: posts the ante 20
+Kontuzeniy: posts the ante 20
+carloszidan: posts the ante 20
+777strash: posts the ante 20
+Kontuzeniy: posts small blind 75
+carloszidan: posts big blind 150
+*** HOLE CARDS ***
+Dealt to eric73847 [Qs 5s]
+777strash: folds 
+felipepg21: folds 
+sixo8zed: folds 
+gourou 2121: calls 150
+eric73847: folds 
+IrishHero16: calls 150
+Gazorpozorp: folds 
+Kontuzeniy: raises 780 to 930
+carloszidan: calls 780
+gourou 2121: folds 
+IrishHero16: folds 
+*** FLOP *** [9h Ah 3c]
+Kontuzeniy: checks 
+carloszidan: bets 2050 and is all-in
+Kontuzeniy: calls 2050
+*** TURN *** [9h Ah 3c] [Jd]
+*** RIVER *** [9h Ah 3c Jd] [3s]
+*** SHOW DOWN ***
+Kontuzeniy: shows [Th Ad] (two pair, Aces and Threes)
+carloszidan: shows [As 8c] (two pair, Aces and Threes)
+Kontuzeniy collected 3220 from pot
+carloszidan collected 3220 from pot
+*** SUMMARY ***
+Total pot 6440 | Rake 0 
+Board [9h Ah 3c Jd 3s]
+Seat 1: felipepg21 folded before Flop (didn't bet)
+Seat 2: sixo8zed folded before Flop (didn't bet)
+Seat 3: gourou 2121 folded before Flop
+Seat 4: eric73847 folded before Flop (didn't bet)
+Seat 5: IrishHero16 folded before Flop
+Seat 6: Gazorpozorp (button) folded before Flop (didn't bet)
+Seat 7: Kontuzeniy (small blind) showed [Th Ad] and won (3220) with two pair, Aces and Threes
+Seat 8: carloszidan (big blind) showed [As 8c] and won (3220) with two pair, Aces and Threes
+Seat 9: 777strash folded before Flop (didn't bet)

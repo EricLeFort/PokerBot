@@ -1,0 +1,54 @@
+PokerStars Hand #154752732446: Tournament #1589381593, $1.00+$0.10 USD Hold'em No Limit - Level XII (200/400) - 2016/06/15 0:20:14 ET
+Table '1589381593 39' 9-max Seat #8 is the button
+Seat 1: Caduufbs (4139 in chips) is sitting out
+Seat 2: romarinho28 (10493 in chips) 
+Seat 3: eric73847 (20306 in chips) 
+Seat 4: REALTRVPSTVR (9290 in chips) 
+Seat 5: Mr.Raitz (13140 in chips) 
+Seat 6: muckbur (15931 in chips) 
+Seat 7: volknik (3500 in chips) 
+Seat 8: leogan918 (16869 in chips) 
+Seat 9: ramessaad (2831 in chips) 
+Caduufbs: posts the ante 50
+romarinho28: posts the ante 50
+eric73847: posts the ante 50
+REALTRVPSTVR: posts the ante 50
+Mr.Raitz: posts the ante 50
+muckbur: posts the ante 50
+volknik: posts the ante 50
+leogan918: posts the ante 50
+ramessaad: posts the ante 50
+ramessaad: posts small blind 200
+Caduufbs: posts big blind 400
+*** HOLE CARDS ***
+Dealt to eric73847 [Ks As]
+romarinho28: folds 
+eric73847: raises 400 to 800
+REALTRVPSTVR: folds 
+Mr.Raitz: folds 
+muckbur: folds 
+volknik: folds 
+leogan918: folds 
+ramessaad: calls 600
+Caduufbs: folds 
+*** FLOP *** [7d 8s 9s]
+ramessaad: bets 1981 and is all-in
+eric73847: calls 1981
+*** TURN *** [7d 8s 9s] [Qc]
+*** RIVER *** [7d 8s 9s Qc] [Td]
+*** SHOW DOWN ***
+ramessaad: shows [6s Jh] (a straight, Eight to Queen)
+eric73847: shows [Ks As] (high card Ace)
+ramessaad collected 6412 from pot
+*** SUMMARY ***
+Total pot 6412 | Rake 0 
+Board [7d 8s 9s Qc Td]
+Seat 1: Caduufbs (big blind) folded before Flop
+Seat 2: romarinho28 folded before Flop (didn't bet)
+Seat 3: eric73847 showed [Ks As] and lost with high card Ace
+Seat 4: REALTRVPSTVR folded before Flop (didn't bet)
+Seat 5: Mr.Raitz folded before Flop (didn't bet)
+Seat 6: muckbur folded before Flop (didn't bet)
+Seat 7: volknik folded before Flop (didn't bet)
+Seat 8: leogan918 (button) folded before Flop (didn't bet)
+Seat 9: ramessaad (small blind) showed [6s Jh] and won (6412) with a straight, Eight to Queen

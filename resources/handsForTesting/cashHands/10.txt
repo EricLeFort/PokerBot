@@ -1,0 +1,53 @@
+PokerStars Hand #154488857098:  Hold'em No Limit ($0.05/$0.10 USD) - 2016/06/08 22:05:26 ET
+Table 'Gratia' 9-max Seat #6 is the button
+Seat 1: SOAcrazy ($1.58 in chips) 
+Seat 2: Leorabotaet ($10.81 in chips) 
+Seat 3: czar0fhearts ($10 in chips) 
+Seat 4: Fduchun ($19.80 in chips) 
+Seat 5: JMKslave ($10.45 in chips) 
+Seat 6: eric73847 ($13.11 in chips) 
+Seat 7: SGA713 ($10.61 in chips) 
+Seat 8: dub555 ($10 in chips) 
+Seat 9: UncleBell ($11.42 in chips) 
+SGA713: posts small blind $0.05
+dub555: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to eric73847 [4c Ah]
+UncleBell: raises $0.20 to $0.30
+SOAcrazy: calls $0.30
+Leorabotaet: folds 
+czar0fhearts: calls $0.30
+Fduchun: folds 
+JMKslave: folds 
+eric73847: folds 
+SGA713: folds 
+dub555: folds 
+*** FLOP *** [Ac Js 7d]
+UncleBell: checks 
+SOAcrazy: checks 
+czar0fhearts: checks 
+*** TURN *** [Ac Js 7d] [6h]
+UncleBell: checks 
+SOAcrazy: checks 
+czar0fhearts: checks 
+*** RIVER *** [Ac Js 7d 6h] [Th]
+UncleBell: checks 
+SOAcrazy: checks 
+czar0fhearts: checks 
+*** SHOW DOWN ***
+UncleBell: shows [9c 9h] (a pair of Nines)
+SOAcrazy: shows [Ks Ts] (a pair of Tens)
+czar0fhearts: mucks hand 
+SOAcrazy collected $1 from pot
+*** SUMMARY ***
+Total pot $1.05 | Rake $0.05 
+Board [Ac Js 7d 6h Th]
+Seat 1: SOAcrazy showed [Ks Ts] and won ($1) with a pair of Tens
+Seat 2: Leorabotaet folded before Flop (didn't bet)
+Seat 3: czar0fhearts mucked [6d 8d]
+Seat 4: Fduchun folded before Flop (didn't bet)
+Seat 5: JMKslave folded before Flop (didn't bet)
+Seat 6: eric73847 (button) folded before Flop (didn't bet)
+Seat 7: SGA713 (small blind) folded before Flop
+Seat 8: dub555 (big blind) folded before Flop
+Seat 9: UncleBell showed [9c 9h] and lost with a pair of Nines

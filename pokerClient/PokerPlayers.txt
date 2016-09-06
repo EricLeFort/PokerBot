@@ -1,2 +1,0 @@
-PlayerName, handsSeen, handsSeenBB, handsSeenSB, flopsSeen, flopsSeenBB, flopsSeenSB, showdownsWon, showdownsSeen, (playingStyle: A(ggressive)/P(assive)/N(eutral))
-Eric,0,0,0,0,0,0,0,0,N

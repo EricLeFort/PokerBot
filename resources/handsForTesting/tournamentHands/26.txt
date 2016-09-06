@@ -1,0 +1,63 @@
+PokerStars Hand #154795036718: Tournament #1589381595, $1.00+$0.10 USD Hold'em No Limit - Level XIII (250/500) - 2016/06/16 0:25:22 ET
+Table '1589381595 17' 9-max Seat #7 is the button
+Seat 1: Allinbud51 (12875 in chips) 
+Seat 2: Alezor1 (15615 in chips) 
+Seat 3: Chugi85 (38390 in chips) 
+Seat 4: flintistone (14605 in chips) 
+Seat 5: Chombezi (11860 in chips) 
+Seat 6: WeiSs1993 (515 in chips) 
+Seat 7: eric73847 (10693 in chips) 
+Seat 8: JakeUpton (3615 in chips) 
+Seat 9: mightyvaven (17410 in chips) 
+Allinbud51: posts the ante 65
+Alezor1: posts the ante 65
+Chugi85: posts the ante 65
+flintistone: posts the ante 65
+Chombezi: posts the ante 65
+WeiSs1993: posts the ante 65
+eric73847: posts the ante 65
+JakeUpton: posts the ante 65
+mightyvaven: posts the ante 65
+JakeUpton: posts small blind 250
+mightyvaven: posts big blind 500
+*** HOLE CARDS ***
+Dealt to eric73847 [Jc Qh]
+WeiSs1993 said, "hue"
+Allinbud51: folds 
+Alezor1: folds 
+Chugi85: folds 
+flintistone: raises 1000 to 1500
+Chombezi: folds 
+WeiSs1993: calls 450 and is all-in
+eric73847: folds 
+JakeUpton: folds 
+mightyvaven: calls 1000
+*** FLOP *** [As 2d 7s]
+mightyvaven: checks 
+flintistone: bets 2500
+mightyvaven: calls 2500
+*** TURN *** [As 2d 7s] [Tc]
+mightyvaven: bets 13345 and is all-in
+flintistone: calls 10540 and is all-in
+Uncalled bet (2805) returned to mightyvaven
+*** RIVER *** [As 2d 7s Tc] [3d]
+*** SHOW DOWN ***
+mightyvaven: shows [Ts 2c] (two pair, Tens and Deuces)
+flintistone: shows [Ad Qs] (a pair of Aces)
+mightyvaven collected 28180 from side pot
+WeiSs1993: shows [Qd 6d] (high card Ace)
+mightyvaven collected 2185 from main pot
+flintistone finished the tournament in 755th place
+WeiSs1993 finished the tournament in 756th place
+*** SUMMARY ***
+Total pot 30365 Main pot 2185. Side pot 28180. | Rake 0 
+Board [As 2d 7s Tc 3d]
+Seat 1: Allinbud51 folded before Flop (didn't bet)
+Seat 2: Alezor1 folded before Flop (didn't bet)
+Seat 3: Chugi85 folded before Flop (didn't bet)
+Seat 4: flintistone showed [Ad Qs] and lost with a pair of Aces
+Seat 5: Chombezi folded before Flop (didn't bet)
+Seat 6: WeiSs1993 showed [Qd 6d] and lost with high card Ace
+Seat 7: eric73847 (button) folded before Flop (didn't bet)
+Seat 8: JakeUpton (small blind) folded before Flop
+Seat 9: mightyvaven (big blind) showed [Ts 2c] and won (30365) with two pair, Tens and Deuces

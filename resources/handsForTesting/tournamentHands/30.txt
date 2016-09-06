@@ -1,0 +1,47 @@
+PokerStars Hand #156307187008: Tournament #1624913094, 870+130 Hold'em No Limit - Level II (15/30) - 2016/07/22 15:10:12 ET
+Table '1624913094 2' 9-max Seat #2 is the button
+Seat 1: Pepa Ray (1470 in chips) 
+Seat 2: Furunfa (3770 in chips) 
+Seat 3: marmax777 (1430 in chips) 
+Seat 4: eric73847 (6800 in chips) 
+Seat 6: riverblasted (3691 in chips) 
+Seat 7: Steiner-FL (1295 in chips) 
+Seat 8: Apeteko (1470 in chips) is sitting out
+marmax777: posts small blind 15
+eric73847: posts big blind 30
+*** HOLE CARDS ***
+Dealt to eric73847 [Tc Kd]
+riverblasted: folds 
+Steiner-FL: folds 
+Apeteko: folds 
+Pepa Ray: calls 30
+Furunfa: calls 30
+marmax777: calls 15
+eric73847: checks 
+*** FLOP *** [Qc Jh Td]
+marmax777: checks 
+eric73847: bets 90
+Pepa Ray: calls 90
+Furunfa: calls 90
+marmax777: folds 
+*** TURN *** [Qc Jh Td] [6c]
+eric73847: bets 210
+Pepa Ray: calls 210
+Furunfa: calls 210
+*** RIVER *** [Qc Jh Td 6c] [Qd]
+eric73847: bets 600
+Pepa Ray: folds 
+Furunfa: folds 
+Uncalled bet (600) returned to eric73847
+eric73847 collected 1020 from pot
+eric73847: doesn't show hand 
+*** SUMMARY ***
+Total pot 1020 | Rake 0 
+Board [Qc Jh Td 6c Qd]
+Seat 1: Pepa Ray folded on the River
+Seat 2: Furunfa (button) folded on the River
+Seat 3: marmax777 (small blind) folded on the Flop
+Seat 4: eric73847 (big blind) collected (1020)
+Seat 6: riverblasted folded before Flop (didn't bet)
+Seat 7: Steiner-FL folded before Flop (didn't bet)
+Seat 8: Apeteko folded before Flop (didn't bet)

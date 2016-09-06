@@ -1,0 +1,57 @@
+PokerStars Hand #154487056456: Tournament #1583923189, $2.00+$0.20 USD Hold'em No Limit - Level IV (400/800) - 2016/06/08 20:49:01 ET
+Table '1583923189 6' 9-max Seat #8 is the button
+Seat 1: efrem00000 (4976 in chips) 
+Seat 2: eric73847 (6820 in chips) 
+Seat 3: cpozzebom (11260 in chips) 
+Seat 5: hjkrio (4860 in chips) 
+Seat 6: m4rkpunk (1160 in chips) 
+Seat 7: Spiedi270 (14500 in chips) 
+Seat 8: RAFII1991 (5760 in chips) is sitting out
+Seat 9: gruntmuch (9610 in chips) 
+efrem00000: posts the ante 80
+eric73847: posts the ante 80
+cpozzebom: posts the ante 80
+hjkrio: posts the ante 80
+m4rkpunk: posts the ante 80
+Spiedi270: posts the ante 80
+RAFII1991: posts the ante 80
+gruntmuch: posts the ante 80
+gruntmuch: posts small blind 400
+efrem00000: posts big blind 800
+*** HOLE CARDS ***
+Dealt to eric73847 [Jd Ac]
+eric73847: raises 1600 to 2400
+cpozzebom: folds 
+hjkrio: folds 
+m4rkpunk: calls 1080 and is all-in
+Spiedi270: calls 2400
+RAFII1991: folds 
+gruntmuch: folds 
+efrem00000: calls 1600
+*** FLOP *** [Ts 8c 9h]
+efrem00000: checks 
+eric73847: bets 4340 and is all-in
+Spiedi270: calls 4340
+efrem00000: calls 2496 and is all-in
+*** TURN *** [Ts 8c 9h] [8h]
+*** RIVER *** [Ts 8c 9h 8h] [5h]
+*** SHOW DOWN ***
+eric73847: shows [Jd Ac] (a pair of Eights)
+Spiedi270: shows [Js Ks] (a pair of Eights - lower kicker)
+eric73847 collected 3688 from side pot-2 
+efrem00000: shows [5c 6s] (two pair, Eights and Fives)
+efrem00000 collected 11448 from side pot-1 
+m4rkpunk: shows [Ad 6c] (a pair of Eights)
+efrem00000 collected 5360 from main pot
+m4rkpunk finished the tournament in 62nd place
+*** SUMMARY ***
+Total pot 20496 Main pot 5360. Side pot-1 11448. Side pot-2 3688. | Rake 0 
+Board [Ts 8c 9h 8h 5h]
+Seat 1: efrem00000 (big blind) showed [5c 6s] and won (16808) with two pair, Eights and Fives
+Seat 2: eric73847 showed [Jd Ac] and won (3688) with a pair of Eights
+Seat 3: cpozzebom folded before Flop (didn't bet)
+Seat 5: hjkrio folded before Flop (didn't bet)
+Seat 6: m4rkpunk showed [Ad 6c] and lost with a pair of Eights
+Seat 7: Spiedi270 showed [Js Ks] and lost with a pair of Eights
+Seat 8: RAFII1991 (button) folded before Flop (didn't bet)
+Seat 9: gruntmuch (small blind) folded before Flop

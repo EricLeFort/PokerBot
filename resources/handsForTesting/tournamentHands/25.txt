@@ -1,0 +1,65 @@
+PokerStars Hand #154794703237: Tournament #1589381595, $1.00+$0.10 USD Hold'em No Limit - Level IX (100/200) - 2016/06/16 0:04:10 ET
+Table '1589381595 17' 9-max Seat #9 is the button
+Seat 1: Allinbud51 (4715 in chips) 
+Seat 2: S4botage (10997 in chips) 
+Seat 3: Chugi85 (24288 in chips) 
+Seat 4: Vinícius71 (6335 in chips) 
+Seat 5: Chombezi (4755 in chips) 
+Seat 6: WeiSs1993 (15075 in chips) 
+Seat 7: eric73847 (14377 in chips) 
+Seat 8: nilos111 (5945 in chips) 
+Seat 9: kyow3 (8281 in chips) 
+Allinbud51: posts the ante 25
+S4botage: posts the ante 25
+Chugi85: posts the ante 25
+Vinícius71: posts the ante 25
+Chombezi: posts the ante 25
+WeiSs1993: posts the ante 25
+eric73847: posts the ante 25
+nilos111: posts the ante 25
+kyow3: posts the ante 25
+Allinbud51: posts small blind 100
+S4botage: posts big blind 200
+*** HOLE CARDS ***
+Dealt to eric73847 [Ks Ah]
+Chugi85: folds 
+Vinícius71: folds 
+Chombezi: folds 
+WeiSs1993: folds 
+eric73847: raises 400 to 600
+nilos111: calls 600
+kyow3: calls 600
+Allinbud51: folds 
+S4botage: calls 400
+*** FLOP *** [3s 4s 6s]
+S4botage: checks 
+eric73847: bets 1600
+nilos111: calls 1600
+kyow3: calls 1600
+S4botage: folds 
+*** TURN *** [3s 4s 6s] [Jc]
+eric73847: checks 
+nilos111: bets 3720 and is all-in
+kyow3: calls 3720
+eric73847: calls 3720
+*** RIVER *** [3s 4s 6s Jc] [Ad]
+eric73847: bets 8432 and is all-in
+kyow3: folds [Ts Td]
+Uncalled bet (8432) returned to eric73847
+*** SHOW DOWN ***
+eric73847: shows [Ks Ah] (a pair of Aces)
+nilos111: shows [Qh 6h] (a pair of Sixes)
+eric73847 collected 18685 from pot
+nilos111 finished the tournament
+*** SUMMARY ***
+Total pot 18685 | Rake 0 
+Board [3s 4s 6s Jc Ad]
+Seat 1: Allinbud51 (small blind) folded before Flop
+Seat 2: S4botage (big blind) folded on the Flop
+Seat 3: Chugi85 folded before Flop (didn't bet)
+Seat 4: Vinícius71 folded before Flop (didn't bet)
+Seat 5: Chombezi folded before Flop (didn't bet)
+Seat 6: WeiSs1993 folded before Flop (didn't bet)
+Seat 7: eric73847 showed [Ks Ah] and won (18685) with a pair of Aces
+Seat 8: nilos111 showed [Qh 6h] and lost with a pair of Sixes
+Seat 9: kyow3 (button) folded on the River
